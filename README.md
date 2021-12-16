@@ -12,6 +12,8 @@ Run ```python app.py``` to start the backend flask server.
 ### Frontend
 In ```/frontend``` run ```npm install``` and then ```npm start``` to initiate the frontend.  
 
+## 
+
 ![tool screenshot](https://i.imgur.com/GMs9mfN.png)
 
 Co-authored by Reuben Bishop, Eric Wyten and Navin Shah. 
