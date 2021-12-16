@@ -4,16 +4,13 @@ Full-stack web app to solve the Dragon-Fjord puzzle of the day using an optimise
 
 ## Getting started
 
-Clone the repo and run 
-'''
-pip install -r requirements.txt
-'''
+Clone the repo and run ```pip install -r requirements.txt```.
 
 ### Backend 
-Run '''python app.py''' to start the backend flask server. 
+Run ```python app.py``` to start the backend flask server. 
 
 ### Frontend
-In '''/frontend''' run '''npm install''' and then '''npm start''' to initiate the frontend.  
+In ```/frontend``` run ```npm install``` and then ```npm start``` to initiate the frontend.  
 
 ![tool screenshot](https://i.imgur.com/GMs9mfN.png)
 
