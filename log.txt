@@ -1,372 +1,455 @@
-FINISHED! Solution found for date 1/1. No. iterations: 1841. Runtime: 3.2929179668426514 seconds.
-FINISHED! Solution found for date 2/1. No. iterations: 154. Runtime: 1.0248775482177734 seconds.
-FINISHED! Solution found for date 3/1. No. iterations: 61. Runtime: 0.4436030387878418 seconds.
-FINISHED! Solution found for date 4/1. No. iterations: 94. Runtime: 0.9231133460998535 seconds.
-FINISHED! Solution found for date 5/1. No. iterations: 551. Runtime: 1.4681777954101562 seconds.
-FINISHED! Solution found for date 6/1. No. iterations: 103. Runtime: 0.8424346446990967 seconds.
-FINISHED! Solution found for date 7/1. No. iterations: 1119. Runtime: 2.149514675140381 seconds.
-FINISHED! Solution found for date 8/1. No. iterations: 125. Runtime: 0.7668819427490234 seconds.
-FINISHED! Solution found for date 9/1. No. iterations: 36. Runtime: 0.3446779251098633 seconds.
-FINISHED! Solution found for date 10/1. No. iterations: 774. Runtime: 1.656571865081787 seconds.
-FINISHED! Solution found for date 11/1. No. iterations: 145. Runtime: 0.922684907913208 seconds.
-FINISHED! Solution found for date 12/1. No. iterations: 2056. Runtime: 4.123642206192017 seconds.
-FINISHED! Solution found for date 13/1. No. iterations: 19. Runtime: 0.232818603515625 seconds.
-FINISHED! Solution found for date 14/1. No. iterations: 248FINISHED! Solution found for date 14/1. No. iterations: 296. Runtime: 0.781440258026123 seconds.
-FINISHED! Solution found for date 15/1. No. iterations: 571. Runtime: 1.603050947189331 seconds.
-FINISHED! Solution found for date 16/1. No. iterations: 50. Runtime: 0.242889404296875 seconds.
-FINISHED! Solution found for date 17/1. No. iterations: 225. Runtime: 0.5135524272918701 seconds.
-FINISHED! Solution found for date 18/1. No. iterations: 1055. Runtime: 1.9154322147369385 seconds.
-FINISHED! Solution found for date 19/1. No. iterations: 132. Runtime: 0.43352270126342773 seconds.
-FINISHED! Solution found for date 20/1. No. iterations: 72. Runtime: 0.4432964324951172 seconds.
-FINISHED! Solution found for date 21/1. No. iterations: 2826. Runtime: 6.676039218902588 seconds.
-FINISHED! Solution found for date 22/1. No. iterations: 424. Runtime: 0.9177415370941162 seconds.
-FINISHED! Solution found for date 23/1. No. iterations: 424. Runtime: 0.8331303596496582 seconds.
-FINISHED! Solution found for date 24/1. No. iterations: 919. Runtime: 2.180850028991699 seconds.
-FINISHED! Solution found for date 25/1. No. iterations: 241. Runtime: 0.7608649730682373 seconds.
-FINISHED! Solution found for date 26/1. No. iterations: 182. Runtime: 0.45401883125305176 seconds.
-FINISHED! Solution found for date 27/1. No. iterations: 95. Runtime: 0.49202966690063477 seconds.
-FINISHED! Solution found for date 28/1. No. iterations: 59. Runtime: 0.38071680068969727 seconds.
-FINISHED! Solution found for date 29/1. No. iterations: 519. Runtime: 1.3681085109710693 seconds.
-FINISHED! Solution found for date 30/1. No. iterations: 324. Runtime: 1.1934802532196045 seconds.
-FINISHED! Solution found for date 31/1. No. iterations: 330. Runtime: 0.810161828994751 seconds.
-FINISHED! Solution found for date 1/2. No. iterations: 98. Runtime: 0.4745175838470459 seconds.
-FINISHED! Solution found for date 2/2. No. iterations: 28. Runtime: 0.22545933723449707 seconds.
-FINISHED! Solution found for date 3/2. No. iterations: 819. Runtime: 2.638387441635132 seconds.
-FINISHED! Solution found for date 4/2. No. iterations: 26. Runtime: 0.22617101669311523 seconds.
-FINISHED! Solution found for date 5/2. No. iterations: 114. Runtime: 0.6883988380432129 seconds.
-FINISHED! Solution found for date 6/2. No. iterations: 41. Runtime: 0.21776413917541504 seconds.
-FINISHED! Solution found for date 7/2. No. iterations: 380. Runtime: 1.0124142169952393 seconds.
-FINISHED! Solution found for date 8/2. No. iterations: 204FINISHED! Solution found for date 8/2. No. iterations: 420. Runtime: 1.0745961666107178 seconds.
-FINISHED! Solution found for date 9/2. No. iterations: 242. Runtime: 0.6204879283905029 seconds.
-FINISHED! Solution found for date 10/2. No. iterations: 629. Runtime: 1.277780294418335 seconds.
-FINISHED! Solution found for date 10/2. No. iterations: 636FINISHED! Solution found for date 11/2. No. iterations: 1214. Runtime: 2.596925735473633 seconds.
-FINISHED! Solution found for date 12/2. No. iterations: 100. Runtime: 0.5585353374481201 seconds.
-FINISHED! Solution found for date 13/2. No. iterations: 514. Runtime: 1.635826826095581 seconds.
-FINISHED! Solution found for date 14/2. No. iterations: 824. Runtime: 2.4313299655914307 seconds.
-FINISHED! Solution found for date 15/2. No. iterations: 123. Runtime: 0.6285467147827148 seconds.
-FINISHED! Solution found for date 16/2. No. iterations: 1203. Runtime: 3.1755881309509277 seconds.
-FINISHED! Solution found for date 17/2. No. iterations: 69. Runtime: 0.5735979080200195 seconds.
-FINISHED! Solution found for date 18/2. No. iterations: 1623. Runtime: 4.684801816940308 seconds.
-FINISHED! Solution found for date 19/2. No. iterations: 82. Runtime: 0.804248571395874 seconds.
-FINISHED! Solution found for date 20/2. No. iterations: 3155. Runtime: 6.799116134643555 seconds.
-FINISHED! Solution found for date 21/2. No. iterations: 2547. Runtime: 5.290657997131348 seconds.
-FINISHED! Solution found for date 22/2. No. iterations: 1751. Runtime: 3.7719955444335938 seconds.
-FINISHED! Solution found for date 23/2. No. iterations: 117. Runtime: 0.6493949890136719 seconds.
-FINISHED! Solution found for date 24/2. No. iterations: 3051. Runtime: 8.18191385269165 seconds.
-FINISHED! Solution found for date 25/2. No. iterations: 235. Runtime: 0.9578108787536621 seconds.
-FINISHED! Solution found for date 26/2. No. iterations: 1045. Runtime: 2.4407882690429688 seconds.
-FINISHED! Solution found for date 27/2. No. iterations: 928. Runtime: 2.2964975833892822 seconds.
-FINISHED! Solution found for date 28/2. No. iterations: 91. Runtime: 0.9489543437957764 seconds.
-FINISHED! Solution found for date 29/2. No. iterations: 32. Runtime: 0.5134942531585693 seconds.
-FINISHED! Solution found for date 30/2. No. iterations: 646. Runtime: 1.8336904048919678 seconds.
-FINISHED! Solution found for date 31/2. No. iterations: 19. Runtime: 0.2760131359100342 seconds.
-FINISHED! Solution found for date 1/3. No. iterations: 4363. Runtime: 8.707163572311401 seconds.
-FINISHED! Solution found for date 2/3. No. iterations: 291. Runtime: 1.5013611316680908 seconds.
-FINISHED! Solution found for date 3/3. No. iterations: 205FINISHED! Solution found for date 3/3. No. iterations: 184. Runtime: 0.9897046089172363 seconds.
-FINISHED! Solution found for date 4/3. No. iterations: 1069. Runtime: 3.219193458557129 seconds.
-FINISHED! Solution found for date 5/3. No. iterations: 1886. Runtime: 3.6958484649658203 seconds.
-FINISHED! Solution found for date 6/3. No. iterations: 2680. Runtime: 4.758664846420288 seconds.
-FINISHED! Solution found for date 7/3. No. iterations: 931. Runtime: 2.448756694793701 seconds.
-FINISHED! Solution found for date 8/3. No. iterations: 523. Runtime: 1.8575124740600586 seconds.
-FINISHED! Solution found for date 9/3. No. iterations: 78FINISHED! Solution found for date 9/3. No. iterations: 368. Runtime: 0.9172227382659912 seconds.
-FINISHED! Solution found for date 10/3. No. iterations: 716. Runtime: 2.224966526031494 seconds.
-FINISHED! Solution found for date 11/3. No. iterations: 1187. Runtime: 2.8269295692443848 seconds.
-FINISHED! Solution found for date 12/3. No. iterations: 35. Runtime: 0.921898603439331 seconds.
-FINISHED! Solution found for date 13/3. No. iterations: 337. Runtime: 1.1903502941131592 seconds.
-FINISHED! Solution found for date 14/3. No. iterations: 1733FINISHED! Solution found for date 14/3. No. iterations: 1740. Runtime: 3.345503091812134 seconds.
-FINISHED! Solution found for date 15/3. No. iterations: 858. Runtime: 2.123528480529785 seconds.
-FINISHED! Solution found for date 16/3. No. iterations: 40. Runtime: 0.7704460620880127 seconds.
-FINISHED! Solution found for date 17/3. No. iterations: 336. Runtime: 1.7885220050811768 seconds.
-FINISHED! Solution found for date 18/3. No. iterations: 1978. Runtime: 3.723154306411743 seconds.
-FINISHED! Solution found for date 19/3. No. iterations: 287. Runtime: 1.1222004890441895 seconds.
-FINISHED! Solution found for date 20/3. No. iterations: 346. Runtime: 1.034320592880249 seconds.
-FINISHED! Solution found for date 21/3. No. iterations: 901. Runtime: 2.7441394329071045 seconds.
-FINISHED! Solution found for date 22/3. No. iterations: 1013. Runtime: 3.656207799911499 seconds.
-FINISHED! Solution found for date 23/3. No. iterations: 390. Runtime: 1.3167119026184082 seconds.
-FINISHED! Solution found for date 24/3. No. iterations: 796. Runtime: 1.667158842086792 seconds.
-FINISHED! Solution found for date 25/3. No. iterations: 1123. Runtime: 2.3393280506134033 seconds.
-FINISHED! Solution found for date 26/3. No. iterations: 1014. Runtime: 2.039823293685913 seconds.
-FINISHED! Solution found for date 27/3. No. iterations: 1277. Runtime: 2.806227922439575 seconds.
-FINISHED! Solution found for date 28/3. No. iterations: 906. Runtime: 2.234103202819824 seconds.
-FINISHED! Solution found for date 29/3. No. iterations: 972. Runtime: 2.194941997528076 seconds.
-FINISHED! Solution found for date 30/3. No. iterations: 562. Runtime: 1.589644432067871 seconds.
-FINISHED! Solution found for date 31/3. No. iterations: 391. Runtime: 1.1428194046020508 seconds.
-FINISHED! Solution found for date 1/4. No. iterations: 169. Runtime: 0.5649063587188721 seconds.
-FINISHED! Solution found for date 2/4. No. iterations: 147FINISHED! Solution found for date 2/4. No. iterations: 24. Runtime: 0.4223175048828125 seconds.
-FINISHED! Solution found for date 3/4. No. iterations: 1179. Runtime: 3.1675662994384766 seconds.
-FINISHED! Solution found for date 4/4. No. iterations: 58. Runtime: 0.22720837593078613 seconds.
-FINISHED! Solution found for date 5/4. No. iterations: 184. Runtime: 0.8451168537139893 seconds.
-FINISHED! Solution found for date 6/4. No. iterations: 1909. Runtime: 3.9066426753997803 seconds.
-FINISHED! Solution found for date 7/4. No. iterations: 421. Runtime: 1.0353646278381348 seconds.
-FINISHED! Solution found for date 8/4. No. iterations: 34. Runtime: 0.3118152618408203 seconds.
-FINISHED! Solution found for date 8/4. No. iterations: 250FINISHED! Solution found for date 9/4. No. iterations: 478. Runtime: 1.0676345825195312 seconds.
-FINISHED! Solution found for date 10/4. No. iterations: 10. Runtime: 0.5257258415222168 seconds.
-FINISHED! Solution found for date 11/4. No. iterations: 1054. Runtime: 2.318174123764038 seconds.
-FINISHED! Solution found for date 12/4. No. iterations: 229. Runtime: 0.632171630859375 seconds.
-FINISHED! Solution found for date 13/4. No. iterations: 264. Runtime: 0.566108226776123 seconds.
-FINISHED! Solution found for date 14/4. No. iterations: 38. Runtime: 0.5286762714385986 seconds.
-FINISHED! Solution found for date 15/4. No. iterations: 395. Runtime: 0.957617998123169 seconds.
-FINISHED! Solution found for date 16/4. No. iterations: 113. Runtime: 0.6396148204803467 seconds.
-FINISHED! Solution found for date 17/4. No. iterations: 847. Runtime: 2.0421836376190186 seconds.
-FINISHED! Solution found for date 18/4. No. iterations: 417. Runtime: 1.123307466506958 seconds.
-FINISHED! Solution found for date 19/4. No. iterations: 196. Runtime: 0.5843992233276367 seconds.
-FINISHED! Solution found for date 20/4. No. iterations: 283. Runtime: 0.7613909244537354 seconds.
-FINISHED! Solution found for date 21/4. No. iterations: 718. Runtime: 1.99245023727417 seconds.
-FINISHED! Solution found for date 22/4. No. iterations: 575. Runtime: 1.5333912372589111 seconds.
-FINISHED! Solution found for date 23/4. No. iterations: 122. Runtime: 0.7331399917602539 seconds.
-FINISHED! Solution found for date 24/4. No. iterations: 188. Runtime: 0.5276308059692383 seconds.
-FINISHED! Solution found for date 25/4. No. iterations: 37. Runtime: 0.30031871795654297 seconds.
-FINISHED! Solution found for date 26/4. No. iterations: 395. Runtime: 0.900153398513794 seconds.
-FINISHED! Solution found for date 27/4. No. iterations: 380. Runtime: 0.9368059635162354 seconds.
-FINISHED! Solution found for date 28/4. No. iterations: 2054. Runtime: 3.6516923904418945 seconds.
-FINISHED! Solution found for date 29/4. No. iterations: 787. Runtime: 1.6142323017120361 seconds.
-FINISHED! Solution found for date 30/4. No. iterations: 121. Runtime: 0.7069027423858643 seconds.
-FINISHED! Solution found for date 31/4. No. iterations: 225. Runtime: 0.5175478458404541 seconds.
-FINISHED! Solution found for date 1/5. No. iterations: 2277. Runtime: 5.016116380691528 seconds.
-FINISHED! Solution found for date 2/5. No. iterations: 143. Runtime: 0.7207248210906982 seconds.
-FINISHED! Solution found for date 3/5. No. iterations: 28FINISHED! Solution found for date 3/5. No. iterations: 14. Runtime: 0.2843005657196045 seconds.
-FINISHED! Solution found for date 4/5. No. iterations: 30. Runtime: 0.7474818229675293 seconds.
-FINISHED! Solution found for date 5/5. No. iterations: 906. Runtime: 2.2717583179473877 seconds.
-FINISHED! Solution found for date 6/5. No. iterations: 1620. Runtime: 3.3385543823242188 seconds.
-FINISHED! Solution found for date 7/5. No. iterations: 55. Runtime: 0.42854809761047363 seconds.
-FINISHED! Solution found for date 8/5. No. iterations: 595. Runtime: 1.1766657829284668 seconds.
-FINISHED! Solution found for date 9/5. No. iterations: 223. Runtime: 0.5510482788085938 seconds.
-FINISHED! Solution found for date 10/5. No. iterations: 29. Runtime: 0.37525081634521484 seconds.
-FINISHED! Solution found for date 11/5. No. iterations: 379FINISHED! Solution found for date 11/5. No. iterations: 46. Runtime: 0.7500457763671875 seconds.
-FINISHED! Solution found for date 12/5. No. iterations: 15. Runtime: 0.19157838821411133 seconds.
-FINISHED! Solution found for date 13/5. No. iterations: 201. Runtime: 0.5274505615234375 seconds.
-FINISHED! Solution found for date 14/5. No. iterations: 952. Runtime: 1.7551472187042236 seconds.
-FINISHED! Solution found for date 15/5. No. iterations: 1793. Runtime: 3.441718101501465 seconds.
-FINISHED! Solution found for date 16/5. No. iterations: 26. Runtime: 0.5948061943054199 seconds.
-FINISHED! Solution found for date 17/5. No. iterations: 29. Runtime: 0.296630859375 seconds.
-FINISHED! Solution found for date 18/5. No. iterations: 2226. Runtime: 4.272885084152222 seconds.
-FINISHED! Solution found for date 19/5. No. iterations: 1160. Runtime: 3.545142412185669 seconds.
-FINISHED! Solution found for date 20/5. No. iterations: 468. Runtime: 1.5624639987945557 seconds.
-FINISHED! Solution found for date 21/5. No. iterations: 432. Runtime: 0.8813321590423584 seconds.
-FINISHED! Solution found for date 22/5. No. iterations: 980. Runtime: 2.4141907691955566 seconds.
-FINISHED! Solution found for date 23/5. No. iterations: 201. Runtime: 0.7590703964233398 seconds.
-FINISHED! Solution found for date 24/5. No. iterations: 1182. Runtime: 3.3951854705810547 seconds.
-FINISHED! Solution found for date 25/5. No. iterations: 73. Runtime: 0.27834129333496094 seconds.
-FINISHED! Solution found for date 26/5. No. iterations: 2292. Runtime: 4.0867249965667725 seconds.
-FINISHED! Solution found for date 27/5. No. iterations: 515. Runtime: 1.6744778156280518 seconds.
-FINISHED! Solution found for date 28/5. No. iterations: 9. Runtime: 0.49616003036499023 seconds.
-FINISHED! Solution found for date 29/5. No. iterations: 2384. Runtime: 4.857724189758301 seconds.
-FINISHED! Solution found for date 30/5. No. iterations: 201. Runtime: 0.8550260066986084 seconds.
-FINISHED! Solution found for date 31/5. No. iterations: 164. Runtime: 0.5916788578033447 seconds.
-FINISHED! Solution found for date 1/6. No. iterations: 17. Runtime: 0.4985618591308594 seconds.
-FINISHED! Solution found for date 2/6. No. iterations: 1710. Runtime: 3.0900001525878906 seconds.
-FINISHED! Solution found for date 3/6. No. iterations: 2241. Runtime: 5.653666734695435 seconds.
-FINISHED! Solution found for date 4/6. No. iterations: 54. Runtime: 0.14238214492797852 seconds.
-FINISHED! Solution found for date 5/6. No. iterations: 142. Runtime: 0.42450976371765137 seconds.
-FINISHED! Solution found for date 6/6. No. iterations: 30. Runtime: 0.3242459297180176 seconds.
-FINISHED! Solution found for date 7/6. No. iterations: 34. Runtime: 0.5915460586547852 seconds.
-FINISHED! Solution found for date 8/6. No. iterations: 8. Runtime: 0.5728867053985596 seconds.
-FINISHED! Solution found for date 9/6. No. iterations: 167. Runtime: 0.6746103763580322 seconds.
-FINISHED! Solution found for date 10/6. No. iterations: 251. Runtime: 1.2083766460418701 seconds.
-FINISHED! Solution found for date 11/6. No. iterations: 980. Runtime: 1.8948681354522705 seconds.
-FINISHED! Solution found for date 12/6. No. iterations: 202. Runtime: 0.648080587387085 seconds.
-FINISHED! Solution found for date 12/6. No. iterations: 32FINISHED! Solution found for date 13/6. No. iterations: 221. Runtime: 0.6691858768463135 seconds.
-FINISHED! Solution found for date 14/6. No. iterations: 320. Runtime: 1.114231824874878 seconds.
-FINISHED! Solution found for date 15/6. No. iterations: 1159. Runtime: 2.932480573654175 seconds.
-FINISHED! Solution found for date 16/6. No. iterations: 268. Runtime: 0.7359776496887207 seconds.
-FINISHED! Solution found for date 17/6. No. iterations: 458FINISHED! Solution found for date 17/6. No. iterations: 308. Runtime: 1.564530611038208 seconds.
-FINISHED! Solution found for date 18/6. No. iterations: 796. Runtime: 2.37404727935791 seconds.
-FINISHED! Solution found for date 19/6. No. iterations: 181. Runtime: 0.645014762878418 seconds.
-FINISHED! Solution found for date 20/6. No. iterations: 248. Runtime: 0.6844930648803711 seconds.
-FINISHED! Solution found for date 21/6. No. iterations: 512. Runtime: 1.0978100299835205 seconds.
-FINISHED! Solution found for date 22/6. No. iterations: 278. Runtime: 0.7632570266723633 seconds.
-FINISHED! Solution found for date 23/6. No. iterations: 275. Runtime: 0.6951768398284912 seconds.
-FINISHED! Solution found for date 24/6. No. iterations: 938. Runtime: 2.401254892349243 seconds.
-FINISHED! Solution found for date 25/6. No. iterations: 984. Runtime: 2.9544625282287598 seconds.
-FINISHED! Solution found for date 26/6. No. iterations: 192. Runtime: 0.8770604133605957 seconds.
-FINISHED! Solution found for date 26/6. No. iterations: 229FINISHED! Solution found for date 27/6. No. iterations: 38. Runtime: 0.3262948989868164 seconds.
-FINISHED! Solution found for date 28/6. No. iterations: 9. Runtime: 0.5445370674133301 seconds.
-FINISHED! Solution found for date 28/6. No. iterations: 19FINISHED! Solution found for date 29/6. No. iterations: 2559. Runtime: 5.633105516433716 seconds.
-FINISHED! Solution found for date 30/6. No. iterations: 172. Runtime: 0.7145626544952393 seconds.
-FINISHED! Solution found for date 31/6. No. iterations: 407. Runtime: 1.2345798015594482 seconds.
-FINISHED! Solution found for date 1/7. No. iterations: 45. Runtime: 0.5016720294952393 seconds.
-FINISHED! Solution found for date 2/7. No. iterations: 17. Runtime: 0.5829787254333496 seconds.
-FINISHED! Solution found for date 3/7. No. iterations: 133. Runtime: 0.7496848106384277 seconds.
-FINISHED! Solution found for date 4/7. No. iterations: 52. Runtime: 0.3634676933288574 seconds.
-FINISHED! Solution found for date 5/7. No. iterations: 1195. Runtime: 2.899751663208008 seconds.
-FINISHED! Solution found for date 6/7. No. iterations: 197. Runtime: 1.0575222969055176 seconds.
-FINISHED! Solution found for date 7/7. No. iterations: 98. Runtime: 0.3816678524017334 seconds.
-FINISHED! Solution found for date 8/7. No. iterations: 38. Runtime: 0.6368346214294434 seconds.
-FINISHED! Solution found for date 9/7. No. iterations: 129. Runtime: 0.9094159603118896 seconds.
-FINISHED! Solution found for date 10/7. No. iterations: 12. Runtime: 0.5478382110595703 seconds.
-FINISHED! Solution found for date 11/7. No. iterations: 408. Runtime: 1.754930019378662 seconds.
-FINISHED! Solution found for date 12/7. No. iterations: 12. Runtime: 0.25971245765686035 seconds.
-FINISHED! Solution found for date 13/7. No. iterations: 337. Runtime: 1.0094053745269775 seconds.
-FINISHED! Solution found for date 14/7. No. iterations: 104. Runtime: 0.35794734954833984 seconds.
-FINISHED! Solution found for date 15/7. No. iterations: 431. Runtime: 1.1115131378173828 seconds.
-FINISHED! Solution found for date 16/7. No. iterations: 13. Runtime: 0.5078549385070801 seconds.
-FINISHED! Solution found for date 17/7. No. iterations: 167. Runtime: 0.5504317283630371 seconds.
-FINISHED! Solution found for date 18/7. No. iterations: 384. Runtime: 1.594604253768921 seconds.
-FINISHED! Solution found for date 19/7. No. iterations: 45. Runtime: 0.6964378356933594 seconds.
-FINISHED! Solution found for date 20/7. No. iterations: 208. Runtime: 0.6524314880371094 seconds.
-FINISHED! Solution found for date 21/7. No. iterations: 167. Runtime: 0.7659912109375 seconds.
-FINISHED! Solution found for date 22/7. No. iterations: 1102. Runtime: 2.3344762325286865 seconds.
-FINISHED! Solution found for date 23/7. No. iterations: 83. Runtime: 0.6445190906524658 seconds.
-FINISHED! Solution found for date 24/7. No. iterations: 781. Runtime: 1.5455381870269775 seconds.
-FINISHED! Solution found for date 25/7. No. iterations: 116. Runtime: 0.7274093627929688 seconds.
-FINISHED! Solution found for date 26/7. No. iterations: 1014. Runtime: 2.09975004196167 seconds.
-FINISHED! Solution found for date 27/7. No. iterations: 553. Runtime: 1.6065332889556885 seconds.
-FINISHED! Solution found for date 28/7. No. iterations: 59. Runtime: 0.4283730983734131 seconds.
-FINISHED! Solution found for date 29/7. No. iterations: 1367. Runtime: 3.015002965927124 seconds.
-FINISHED! Solution found for date 30/7. No. iterations: 143. Runtime: 0.8772170543670654 seconds.
-FINISHED! Solution found for date 31/7. No. iterations: 85. Runtime: 0.47570157051086426 seconds.
-FINISHED! Solution found for date 1/8. No. iterations: 74. Runtime: 0.4691436290740967 seconds.
-FINISHED! Solution found for date 2/8. No. iterations: 26. Runtime: 0.4478440284729004 seconds.
-FINISHED! Solution found for date 3/8. No. iterations: 142FINISHED! Solution found for date 3/8. No. iterations: 161. Runtime: 0.5449786186218262 seconds.
-FINISHED! Solution found for date 4/8. No. iterations: 24. Runtime: 0.5313985347747803 seconds.
-FINISHED! Solution found for date 5/8. No. iterations: 79. Runtime: 0.8856956958770752 seconds.
-FINISHED! Solution found for date 6/8. No. iterations: 45. Runtime: 0.31647634506225586 seconds.
-FINISHED! Solution found for date 7/8. No. iterations: 129. Runtime: 0.6135785579681396 seconds.
-FINISHED! Solution found for date 8/8. No. iterations: 105. Runtime: 0.862999439239502 seconds.
-FINISHED! Solution found for date 9/8. No. iterations: 20. Runtime: 0.4660928249359131 seconds.
-FINISHED! Solution found for date 10/8. No. iterations: 658. Runtime: 1.7714390754699707 seconds.
-FINISHED! Solution found for date 11/8. No. iterations: 910. Runtime: 2.269239664077759 seconds.
-FINISHED! Solution found for date 12/8. No. iterations: 113. Runtime: 0.4715440273284912 seconds.
-FINISHED! Solution found for date 13/8. No. iterations: 306. Runtime: 1.0354750156402588 seconds.
-FINISHED! Solution found for date 14/8. No. iterations: 43. Runtime: 0.8072741031646729 seconds.
-FINISHED! Solution found for date 15/8. No. iterations: 283. Runtime: 1.1300020217895508 seconds.
-FINISHED! Solution found for date 16/8. No. iterations: 381. Runtime: 1.7569694519042969 seconds.
-FINISHED! Solution found for date 17/8. No. iterations: 71. Runtime: 0.4052846431732178 seconds.
-FINISHED! Solution found for date 18/8. No. iterations: 711. Runtime: 2.797506809234619 seconds.
-FINISHED! Solution found for date 19/8. No. iterations: 39. Runtime: 0.1920320987701416 seconds.
-FINISHED! Solution found for date 20/8. No. iterations: 52. Runtime: 0.6725006103515625 seconds.
-FINISHED! Solution found for date 21/8. No. iterations: 377. Runtime: 1.480757713317871 seconds.
-FINISHED! Solution found for date 22/8. No. iterations: 192. Runtime: 0.8706297874450684 seconds.
-FINISHED! Solution found for date 23/8. No. iterations: 83FINISHED! Solution found for date 23/8. No. iterations: 100. Runtime: 0.6408483982086182 seconds.
-FINISHED! Solution found for date 24/8. No. iterations: 1183. Runtime: 2.8474881649017334 seconds.
-FINISHED! Solution found for date 25/8. No. iterations: 354. Runtime: 0.7087018489837646 seconds.
-FINISHED! Solution found for date 26/8. No. iterations: 985. Runtime: 2.940375804901123 seconds.
-FINISHED! Solution found for date 27/8. No. iterations: 88. Runtime: 0.8034815788269043 seconds.
-FINISHED! Solution found for date 28/8. No. iterations: 59. Runtime: 0.45496320724487305 seconds.
-FINISHED! Solution found for date 29/8. No. iterations: 2033. Runtime: 5.119544744491577 seconds.
-FINISHED! Solution found for date 30/8. No. iterations: 704. Runtime: 1.7570006847381592 seconds.
-FINISHED! Solution found for date 31/8. No. iterations: 36. Runtime: 0.2790553569793701 seconds.
-FINISHED! Solution found for date 1/9. No. iterations: 10. Runtime: 0.40227270126342773 seconds.
-FINISHED! Solution found for date 2/9. No. iterations: 10. Runtime: 0.42983078956604004 seconds.
-FINISHED! Solution found for date 3/9. No. iterations: 20. Runtime: 0.1632845401763916 seconds.
-FINISHED! Solution found for date 4/9. No. iterations: 543FINISHED! Solution found for date 4/9. No. iterations: 898. Runtime: 2.549715280532837 seconds.
-FINISHED! Solution found for date 5/9. No. iterations: 201. Runtime: 0.5258049964904785 seconds.
-FINISHED! Solution found for date 6/9. No. iterations: 159. Runtime: 0.3436145782470703 seconds.
-FINISHED! Solution found for date 7/9. No. iterations: 36. Runtime: 0.2789342403411865 seconds.
-FINISHED! Solution found for date 8/9. No. iterations: 23. Runtime: 0.5574929714202881 seconds.
-FINISHED! Solution found for date 9/9. No. iterations: 612FINISHED! Solution found for date 9/9. No. iterations: 978. Runtime: 3.075543165206909 seconds.
-FINISHED! Solution found for date 10/9. No. iterations: 103. Runtime: 0.34723901748657227 seconds.
-FINISHED! Solution found for date 11/9. No. iterations: 265. Runtime: 0.9158220291137695 seconds.
-FINISHED! Solution found for date 12/9. No. iterations: 632. Runtime: 2.4268922805786133 seconds.
-FINISHED! Solution found for date 13/9. No. iterations: 349. Runtime: 1.2367656230926514 seconds.
-FINISHED! Solution found for date 14/9. No. iterations: 623. Runtime: 2.203798532485962 seconds.
-FINISHED! Solution found for date 15/9. No. iterations: 1151. Runtime: 2.591567277908325 seconds.
-FINISHED! Solution found for date 16/9. No. iterations: 546. Runtime: 2.6599724292755127 seconds.
-FINISHED! Solution found for date 17/9. No. iterations: 129. Runtime: 0.7121868133544922 seconds.
-FINISHED! Solution found for date 18/9. No. iterations: 34. Runtime: 0.35386085510253906 seconds.
-FINISHED! Solution found for date 19/9. No. iterations: 120. Runtime: 0.7875978946685791 seconds.
-FINISHED! Solution found for date 20/9. No. iterations: 208. Runtime: 0.8581993579864502 seconds.
-FINISHED! Solution found for date 21/9. No. iterations: 1014. Runtime: 2.820676803588867 seconds.
-FINISHED! Solution found for date 22/9. No. iterations: 159. Runtime: 0.7202713489532471 seconds.
-FINISHED! Solution found for date 23/9. No. iterations: 174. Runtime: 0.8796813488006592 seconds.
-FINISHED! Solution found for date 24/9. No. iterations: 160. Runtime: 0.7133550643920898 seconds.
-FINISHED! Solution found for date 25/9. No. iterations: 49. Runtime: 0.6137504577636719 seconds.
-FINISHED! Solution found for date 26/9. No. iterations: 45. Runtime: 0.5826866626739502 seconds.
-FINISHED! Solution found for date 27/9. No. iterations: 300FINISHED! Solution found for date 27/9. No. iterations: 215. Runtime: 0.976191520690918 seconds.
-FINISHED! Solution found for date 28/9. No. iterations: 74. Runtime: 0.6768660545349121 seconds.
-FINISHED! Solution found for date 29/9. No. iterations: 47. Runtime: 0.5060741901397705 seconds.
-FINISHED! Solution found for date 30/9. No. iterations: 422. Runtime: 2.2885072231292725 seconds.
-FINISHED! Solution found for date 31/9. No. iterations: 178. Runtime: 0.9141099452972412 seconds.
-FINISHED! Solution found for date 1/10. No. iterations: 365. Runtime: 1.1304192543029785 seconds.
-FINISHED! Solution found for date 2/10. No. iterations: 16FINISHED! Solution found for date 2/10. No. iterations: 30. Runtime: 0.5847625732421875 seconds.
-FINISHED! Solution found for date 3/10. No. iterations: 389. Runtime: 1.3996036052703857 seconds.
-FINISHED! Solution found for date 4/10. No. iterations: 54. Runtime: 0.4414041042327881 seconds.
-FINISHED! Solution found for date 5/10. No. iterations: 89. Runtime: 0.6443231105804443 seconds.
-FINISHED! Solution found for date 6/10. No. iterations: 9493. Runtime: 19.133946657180786 seconds.
-FINISHED! Solution found for date 7/10. No. iterations: 149. Runtime: 0.6509058475494385 seconds.
-FINISHED! Solution found for date 8/10. No. iterations: 139. Runtime: 0.8087615966796875 seconds.
-FINISHED! Solution found for date 9/10. No. iterations: 347. Runtime: 0.9893817901611328 seconds.
-FINISHED! Solution found for date 10/10. No. iterations: 10. Runtime: 0.9561135768890381 seconds.
-FINISHED! Solution found for date 11/10. No. iterations: 686. Runtime: 1.456949234008789 seconds.
-FINISHED! Solution found for date 12/10. No. iterations: 176. Runtime: 0.44991087913513184 seconds.
-FINISHED! Solution found for date 13/10. No. iterations: 196. Runtime: 0.4223048686981201 seconds.
-FINISHED! Solution found for date 14/10. No. iterations: 415. Runtime: 1.483565330505371 seconds.
-FINISHED! Solution found for date 15/10. No. iterations: 36. Runtime: 0.2501554489135742 seconds.
-FINISHED! Solution found for date 16/10. No. iterations: 36. Runtime: 0.3128523826599121 seconds.
-FINISHED! Solution found for date 17/10. No. iterations: 111. Runtime: 0.7398478984832764 seconds.
-FINISHED! Solution found for date 18/10. No. iterations: 3387. Runtime: 5.9163877964019775 seconds.
-FINISHED! Solution found for date 19/10. No. iterations: 147. Runtime: 0.3799102306365967 seconds.
-FINISHED! Solution found for date 20/10. No. iterations: 212. Runtime: 0.5244712829589844 seconds.
-FINISHED! Solution found for date 21/10. No. iterations: 515. Runtime: 1.3733599185943604 seconds.
-FINISHED! Solution found for date 22/10. No. iterations: 594. Runtime: 1.3241384029388428 seconds.
-FINISHED! Solution found for date 23/10. No. iterations: 583. Runtime: 1.231903076171875 seconds.
-FINISHED! Solution found for date 24/10. No. iterations: 1719. Runtime: 4.109667778015137 seconds.
-FINISHED! Solution found for date 25/10. No. iterations: 115. Runtime: 0.5140230655670166 seconds.
-FINISHED! Solution found for date 26/10. No. iterations: 1098. Runtime: 2.9054129123687744 seconds.
-FINISHED! Solution found for date 27/10. No. iterations: 1690. Runtime: 2.9027063846588135 seconds.
-FINISHED! Solution found for date 28/10. No. iterations: 390. Runtime: 0.8305749893188477 seconds.
-FINISHED! Solution found for date 29/10. No. iterations: 37. Runtime: 0.24083518981933594 seconds.
-FINISHED! Solution found for date 30/10. No. iterations: 37. Runtime: 0.28133201599121094 seconds.
-FINISHED! Solution found for date 31/10. No. iterations: 262. Runtime: 1.0529472827911377 seconds.
-FINISHED! Solution found for date 1/11. No. iterations: 49. Runtime: 0.5327920913696289 seconds.
-FINISHED! Solution found for date 2/11. No. iterations: 251. Runtime: 0.8179078102111816 seconds.
-FINISHED! Solution found for date 3/11. No. iterations: 28. Runtime: 0.1869051456451416 seconds.
-FINISHED! Solution found for date 4/11. No. iterations: 484. Runtime: 1.7892096042633057 seconds.
-FINISHED! Solution found for date 5/11. No. iterations: 868. Runtime: 2.1848368644714355 seconds.
-FINISHED! Solution found for date 6/11. No. iterations: 61. Runtime: 0.4962916374206543 seconds.
-FINISHED! Solution found for date 7/11. No. iterations: 677. Runtime: 2.0037336349487305 seconds.
-FINISHED! Solution found for date 8/11. No. iterations: 355. Runtime: 1.0720953941345215 seconds.
-FINISHED! Solution found for date 9/11. No. iterations: 1614. Runtime: 4.476986408233643 seconds.
-FINISHED! Solution found for date 10/11. No. iterations: 28. Runtime: 0.22773480415344238 seconds.
-FINISHED! Solution found for date 11/11. No. iterations: 462. Runtime: 1.5832483768463135 seconds.
-FINISHED! Solution found for date 12/11. No. iterations: 15FINISHED! Solution found for date 12/11. No. iterations: 30. Runtime: 0.2262861728668213 seconds.
-FINISHED! Solution found for date 13/11. No. iterations: 632. Runtime: 1.5318655967712402 seconds.
-FINISHED! Solution found for date 14/11. No. iterations: 1871. Runtime: 5.31658935546875 seconds.
-FINISHED! Solution found for date 15/11. No. iterations: 198. Runtime: 0.7059636116027832 seconds.
-FINISHED! Solution found for date 16/11. No. iterations: 2537. Runtime: 5.4723920822143555 seconds.
-FINISHED! Solution found for date 17/11. No. iterations: 66. Runtime: 0.6606357097625732 seconds.
-FINISHED! Solution found for date 18/11. No. iterations: 3586. Runtime: 6.978209495544434 seconds.
-FINISHED! Solution found for date 19/11. No. iterations: 40. Runtime: 0.1909470558166504 seconds.
-FINISHED! Solution found for date 20/11. No. iterations: 19. Runtime: 0.8565499782562256 seconds.
-FINISHED! Solution found for date 21/11. No. iterations: 331. Runtime: 1.0643608570098877 seconds.
-FINISHED! Solution found for date 22/11. No. iterations: 59. Runtime: 0.3492622375488281 seconds.
-FINISHED! Solution found for date 23/11. No. iterations: 84. Runtime: 0.5716028213500977 seconds.
-FINISHED! Solution found for date 24/11. No. iterations: 269. Runtime: 0.9919536113739014 seconds.
-FINISHED! Solution found for date 25/11. No. iterations: 109. Runtime: 0.46433067321777344 seconds.
-FINISHED! Solution found for date 26/11. No. iterations: 1160. Runtime: 3.353283166885376 seconds.
-FINISHED! Solution found for date 27/11. No. iterations: 317. Runtime: 0.9233341217041016 seconds.
-FINISHED! Solution found for date 28/11. No. iterations: 64. Runtime: 0.2811770439147949 seconds.
-FINISHED! Solution found for date 29/11. No. iterations: 1687. Runtime: 4.50219988822937 seconds.
-FINISHED! Solution found for date 30/11. No. iterations: 84. Runtime: 0.8495028018951416 seconds.
-FINISHED! Solution found for date 31/11. No. iterations: 129. Runtime: 0.702707052230835 seconds.
-FINISHED! Solution found for date 1/12. No. iterations: 16. Runtime: 0.712646484375 seconds.
-FINISHED! Solution found for date 2/12. No. iterations: 40. Runtime: 0.5379993915557861 seconds.
-FINISHED! Solution found for date 3/12. No. iterations: 946. Runtime: 1.6624488830566406 seconds.
-FINISHED! Solution found for date 4/12. No. iterations: 48. Runtime: 0.3666212558746338 seconds.
-FINISHED! Solution found for date 5/12. No. iterations: 89. Runtime: 0.2738776206970215 seconds.
-FINISHED! Solution found for date 6/12. No. iterations: 2213. Runtime: 5.797079801559448 seconds.
-FINISHED! Solution found for date 7/12. No. iterations: 697. Runtime: 2.785166025161743 seconds.
-FINISHED! Solution found for date 8/12. No. iterations: 95. Runtime: 0.620568037033081 seconds.
-FINISHED! Solution found for date 9/12. No. iterations: 21. Runtime: 0.28899335861206055 seconds.
-FINISHED! Solution found for date 10/12. No. iterations: 151. Runtime: 0.9484055042266846 seconds.
-FINISHED! Solution found for date 11/12. No. iterations: 375FINISHED! Solution found for date 11/12. No. iterations: 498. Runtime: 1.1143717765808105 seconds.
-FINISHED! Solution found for date 12/12. No. iterations: 179. Runtime: 0.6203310489654541 seconds.
-FINISHED! Solution found for date 13/12. No. iterations: 207. Runtime: 0.5356988906860352 seconds.
-FINISHED! Solution found for date 14/12. No. iterations: 276. Runtime: 0.7218914031982422 seconds.
-FINISHED! Solution found for date 15/12. No. iterations: 21. Runtime: 0.3856782913208008 seconds.
-FINISHED! Solution found for date 16/12. No. iterations: 197. Runtime: 0.4937722682952881 seconds.
-FINISHED! Solution found for date 17/12. No. iterations: 311. Runtime: 1.1636078357696533 seconds.
-FINISHED! Solution found for date 18/12. No. iterations: 1230. Runtime: 4.046217441558838 seconds.
-FINISHED! Solution found for date 19/12. No. iterations: 154. Runtime: 0.4866068363189697 seconds.
-FINISHED! Solution found for date 20/12. No. iterations: 208. Runtime: 0.5671024322509766 seconds.
-FINISHED! Solution found for date 21/12. No. iterations: 1082. Runtime: 3.430288314819336 seconds.
-FINISHED! Solution found for date 22/12. No. iterations: 60. Runtime: 0.3161036968231201 seconds.
-FINISHED! Solution found for date 23/12. No. iterations: 58. Runtime: 0.5497632026672363 seconds.
-FINISHED! Solution found for date 24/12. No. iterations: 1476. Runtime: 4.397763729095459 seconds.
-FINISHED! Solution found for date 25/12. No. iterations: 1605. Runtime: 3.3761467933654785 seconds.
-FINISHED! Solution found for date 26/12. No. iterations: 733. Runtime: 2.0086257457733154 seconds.
-FINISHED! Solution found for date 27/12. No. iterations: 784. Runtime: 2.8309106826782227 seconds.
-FINISHED! Solution found for date 28/12. No. iterations: 39. Runtime: 0.2604222297668457 seconds.
-FINISHED! Solution found for date 29/12. No. iterations: 1298. Runtime: 3.5676939487457275 seconds.
-FINISHED! Solution found for date 30/12. No. iterations: 254FINISHED! Solution found for date 30/12. No. iterations: 32. Runtime: 0.9522132873535156 seconds.
-FINISHED! Solution found for date 31/12. No. iterations: 59. Runtime: 0.4317202568054199 seconds.
+FINISHED! Solution found for date 5/5. No. iterations: 906. Runtime: 3.6170735359191895 seconds.
+FINISHED! Solution found for date 5/5. No. iterations: 906FINISHED! Solution found for date 5/5. No. iterations: 3646FINISHED! Solution found for date 5/5. No. iterations: 3736FINISHED! Solution found for date 5/5. No. iterations: 8872FINISHED! Solution found for date 5/5. No. iterations: 10470FINISHED! Solution found for date 5/5. No. iterations: 12021FINISHED! Solution found for date 5/5. No. iterations: 12758FINISHED! Solution found for date 5/5. No. iterations: 906FINISHED! Solution found for date 5/5. No. iterations: 3646FINISHED! Solution found for date 5/5. No. iterations: 3736FINISHED! Solution found for date 5/5. No. iterations: 906. Runtime: 4.034716367721558 seconds.
+FINISHED! Solution found for date 5/5. No. iterations: 906. Runtime: 3.718951463699341 seconds.
+FINISHED! Solution found. No. iterations: 906. Runtime: 3.7658307552337646 seconds.
+FINISHED! Solution found. No. iterations: 323FINISHED! Solution found. No. iterations: 207. Runtime: 1.6562883853912354 seconds.
+FINISHED! Solution found. No. iterations: 297. Runtime: 3.093777894973755 seconds.
+FINISHED! Solution found. No. iterations: 297. Runtime: 3.358447551727295 seconds.
+FINISHED! Solution found. No. iterations: 297FINISHED! Solution found. No. iterations: 338. Runtime: 4.236631870269775 seconds.
+FINISHED! Solution found. No. iterations: 297. Runtime: 3.3950188159942627 seconds.
+FINISHED! Solution found. No. iterations: 297FINISHED! Solution found. No. iterations: 338. Runtime: 3.579021692276001 seconds.
+FINISHED! Solution found. No. iterations: 338FINISHED! Solution found. No. iterations: 297. Runtime: 3.07692813873291 seconds.
+FINISHED! Solution found. No. iterations: 253. Runtime: 3.115036964416504 seconds.
+FINISHED! Solution found. No. iterations: 293. Runtime: 3.26401948928833 seconds.
+FINISHED! Solution found. No. iterations: 293FINISHED! Solution found. No. iterations: 253. Runtime: 3.4470014572143555 seconds.
+FINISHED! Solution found. No. iterations: 253. Runtime: 1.9860098361968994 seconds.
+FINISHED! Solution found. No. iterations: 253FINISHED! Solution found. No. iterations: 293. Runtime: 4.007857084274292 seconds.
+FINISHED! Solution found. No. iterations: 253FINISHED! Solution found. No. iterations: 293. Runtime: 3.461019992828369 seconds.
+FINISHED! Solution found. No. iterations: 293FINISHED! Solution found. No. iterations: 253. Runtime: 3.210017204284668 seconds.
+FINISHED! Solution found. No. iterations: 293FINISHED! Solution found. No. iterations: 253. Runtime: 3.4430110454559326 seconds.
+FINISHED! Solution found. No. iterations: 293. Runtime: 2.9800171852111816 seconds.
+FINISHED! Solution found. No. iterations: 253FINISHED! Solution found. No. iterations: 293. Runtime: 3.4990155696868896 seconds.
+FINISHED! Solution found. No. iterations: 892. Runtime: 3.4150264263153076 seconds.
+FINISHED! Solution found. No. iterations: 892. Runtime: 3.1760141849517822 seconds.
+FINISHED! Solution found. No. iterations: 253FINISHED! Solution found. No. iterations: 293. Runtime: 3.2810091972351074 seconds.
+FINISHED! Solution found. No. iterations: 293FINISHED! Solution found. No. iterations: 253. Runtime: 2.9100117683410645 seconds.
+FINISHED! Solution found. No. iterations: 293FINISHED! Solution found. No. iterations: 253. Runtime: 3.0480144023895264 seconds.
+FINISHED! Solution found. No. iterations: 293FINISHED! Solution found. No. iterations: 253. Runtime: 3.183008909225464 seconds.
+FINISHED! Solution found. No. iterations: 253FINISHED! Solution found. No. iterations: 293. Runtime: 3.1140129566192627 seconds.
+FINISHED! Solution found. No. iterations: 253FINISHED! Solution found. No. iterations: 293FINISHED! Solution found. No. iterations: 293. Runtime: 1.963822364807129 seconds.
+FINISHED! Solution found. No. iterations: 253FINISHED! Solution found. No. iterations: 293. Runtime: 4.076929569244385 seconds.
+FINISHED! Solution found. No. iterations: 293FINISHED! Solution found. No. iterations: 253. Runtime: 3.319519519805908 seconds.
+FINISHED! Solution found. No. iterations: 253FINISHED! Solution found. No. iterations: 293. Runtime: 3.0706160068511963 seconds.
+FINISHED! Solution found. No. iterations: 253. Runtime: 2.9443202018737793 seconds.
+FINISHED! Solution found. No. iterations: 293. Runtime: 3.094966173171997 seconds.
+FINISHED! Solution found. No. iterations: 293FINISHED! Solution found. No. iterations: 253. Runtime: 4.132498502731323 seconds.
+FINISHED! Solution found. No. iterations: 293FINISHED! Solution found. No. iterations: 253. Runtime: 3.5430550575256348 seconds.
+FINISHED! Solution found. No. iterations: 293FINISHED! Solution found. No. iterations: 253. Runtime: 3.9626238346099854 seconds.
+FINISHED! Solution found. No. iterations: 253. Runtime: 2.1383330821990967 seconds.
+FINISHED! Solution found. No. iterations: 293FINISHED! Solution found. No. iterations: 253. Runtime: 3.4734997749328613 seconds.
+FINISHED! Solution found. No. iterations: 253FINISHED! Solution found. No. iterations: 293. Runtime: 3.080350160598755 seconds.
+FINISHED! Solution found. No. iterations: 253FINISHED! Solution found. No. iterations: 293. Runtime: 4.392676830291748 seconds.
+FINISHED! Solution found. No. iterations: 293FINISHED! Solution found. No. iterations: 253. Runtime: 3.0406999588012695 seconds.
+FINISHED! Solution found. No. iterations: 892. Runtime: 2.887876033782959 seconds.
+FINISHED! Solution found. No. iterations: 253. Runtime: 3.8725149631500244 seconds.
+FINISHED! Solution found. No. iterations: 253. Runtime: 2.882502555847168 seconds.
+FINISHED! Solution found. No. iterations: 293FINISHED! Solution found. No. iterations: 253. Runtime: 3.88008451461792 seconds.
+FINISHED! Solution found. No. iterations: 293FINISHED! Solution found. No. iterations: 253. Runtime: 3.3206186294555664 seconds.
+FINISHED! Solution found. No. iterations: 293FINISHED! Solution found. No. iterations: 253. Runtime: 3.6697793006896973 seconds.
+FINISHED! Solution found. No. iterations: 253FINISHED! Solution found. No. iterations: 293. Runtime: 1.693786382675171 seconds.
+FINISHED! Solution found. No. iterations: 253FINISHED! Solution found. No. iterations: 293. Runtime: 2.444066286087036 seconds.
+FINISHED! Solution found. No. iterations: 293FINISHED! Solution found. No. iterations: 253. Runtime: 4.990752935409546 seconds.
+FINISHED! Solution found. No. iterations: 293FINISHED! Solution found. No. iterations: 253. Runtime: 4.607845067977905 seconds.
+FINISHED! Solution found. No. iterations: 293FINISHED! Solution found. No. iterations: 253. Runtime: 4.705655813217163 seconds.
+FINISHED! Solution found. No. iterations: 253FINISHED! Solution found. No. iterations: 293. Runtime: 3.8394510746002197 seconds.
+FINISHED! Solution found. No. iterations: 253FINISHED! Solution found. No. iterations: 293. Runtime: 3.6663765907287598 seconds.
+FINISHED! Solution found. No. iterations: 253FINISHED! Solution found. No. iterations: 293. Runtime: 4.962805509567261 seconds.
+FINISHED! Solution found. No. iterations: 253FINISHED! Solution found. No. iterations: 293. Runtime: 2.0071487426757812 seconds.
+FINISHED! Solution found. No. iterations: 293FINISHED! Solution found. No. iterations: 253. Runtime: 3.092872142791748 seconds.
+FINISHED! Solution found. No. iterations: 253FINISHED! Solution found. No. iterations: 293. Runtime: 3.109395980834961 seconds.
+FINISHED! Solution found. No. iterations: 253. Runtime: 2.9531474113464355 seconds.
+FINISHED! Solution found. No. iterations: 253FINISHED! Solution found. No. iterations: 293. Runtime: 2.7968955039978027 seconds.
+FINISHED! Solution found. No. iterations: 253FINISHED! Solution found. No. iterations: 293. Runtime: 2.9375178813934326 seconds.
+FINISHED! Solution found. No. iterations: 253FINISHED! Solution found. No. iterations: 293. Runtime: 3.343780994415283 seconds.
+FINISHED! Solution found. No. iterations: 253. Runtime: 3.1250011920928955 seconds.
+FINISHED! Solution found. No. iterations: 293. Runtime: 2.0468900203704834 seconds.
+FINISHED! Solution found. No. iterations: 293. Runtime: 2.6406428813934326 seconds.
+FINISHED! Solution found. No. iterations: 253FINISHED! Solution found. No. iterations: 293. Runtime: 3.1250219345092773 seconds.
+FINISHED! Solution found. No. iterations: 293. Runtime: 2.9843947887420654 seconds.
+FINISHED! Solution found. No. iterations: 293. Runtime: 2.187542676925659 seconds.
+FINISHED! Solution found. No. iterations: 293FINISHED! Solution found. No. iterations: 253. Runtime: 2.7812674045562744 seconds.
+FINISHED! Solution found. No. iterations: 253FINISHED! Solution found. No. iterations: 293. Runtime: 3.0000197887420654 seconds.
+FINISHED! Solution found. No. iterations: 293. Runtime: 3.296901226043701 seconds.
+FINISHED! Solution found. No. iterations: 253FINISHED! Solution found. No. iterations: 293. Runtime: 3.015645742416382 seconds.
+FINISHED! Solution found. No. iterations: 253. Runtime: 2.3750154972076416 seconds.
+FINISHED! Solution found. No. iterations: 253. Runtime: 2.2812674045562744 seconds.
+FINISHED! Solution found. No. iterations: 253. Runtime: 2.2812676429748535 seconds.
+FINISHED! Solution found. No. iterations: 293FINISHED! Solution found. No. iterations: 253. Runtime: 3.8762316703796387 seconds.
+FINISHED! Solution found. No. iterations: 253FINISHED! Solution found. No. iterations: 293. Runtime: 3.855449676513672 seconds.
+FINISHED! Solution found. No. iterations: 253FINISHED! Solution found. No. iterations: 293. Runtime: 6.4472925662994385 seconds.
+FINISHED! Solution found. No. iterations: 253. Runtime: 2.677544116973877 seconds.
+FINISHED! Solution found. No. iterations: 293. Runtime: 2.570450782775879 seconds.
+FINISHED! Solution found. No. iterations: 253. Runtime: 3.1087777614593506 seconds.
+FINISHED! Solution found. No. iterations: 293FINISHED! Solution found. No. iterations: 253. Runtime: 3.257171630859375 seconds.
+FINISHED! Solution found. No. iterations: 253FINISHED! Solution found. No. iterations: 293. Runtime: 2.318495750427246 seconds.
+FINISHED! Solution found. No. iterations: 293. Runtime: 2.638214111328125 seconds.
+FINISHED! Solution found. No. iterations: 293FINISHED! Solution found. No. iterations: 253. Runtime: 3.1562724113464355 seconds.
+FINISHED! Solution found. No. iterations: 253. Runtime: 2.2812817096710205 seconds.
+FINISHED! Solution found. No. iterations: 253. Runtime: 2.1094167232513428 seconds.
+FINISHED! Solution found. No. iterations: 253FINISHED! Solution found. No. iterations: 293. Runtime: 3.718777656555176 seconds.
+FINISHED! Solution found. No. iterations: 293FINISHED! Solution found. No. iterations: 253. Runtime: 2.8672823905944824 seconds.
+FINISHED! Solution found. No. iterations: 253FINISHED! Solution found. No. iterations: 293. Runtime: 3.0058584213256836 seconds.
+FINISHED! Solution found. No. iterations: 293FINISHED! Solution found. No. iterations: 253. Runtime: 4.7008216381073 seconds.
+FINISHED! Solution found. No. iterations: 253. Runtime: 2.4838709831237793 seconds.
+FINISHED! Solution found. No. iterations: 293FINISHED! Solution found. No. iterations: 253. Runtime: 3.887148857116699 seconds.
+FINISHED! Solution found. No. iterations: 253FINISHED! Solution found. No. iterations: 293. Runtime: 3.097928047180176 seconds.
+FINISHED! Solution found. No. iterations: 253. Runtime: 3.0470681190490723 seconds.
+FINISHED! Solution found. No. iterations: 253FINISHED! Solution found. No. iterations: 293. Runtime: 3.489814519882202 seconds.
+FINISHED! Solution found. No. iterations: 253FINISHED! Solution found. No. iterations: 293. Runtime: 4.246664524078369 seconds.
+FINISHED! Solution found. No. iterations: 253FINISHED! Solution found. No. iterations: 293. Runtime: 4.233154773712158 seconds.
+FINISHED! Solution found. No. iterations: 253FINISHED! Solution found. No. iterations: 293. Runtime: 5.00937294960022 seconds.
+FINISHED! Solution found. No. iterations: 293FINISHED! Solution found. No. iterations: 253. Runtime: 4.093653917312622 seconds.
+FINISHED! Solution found. No. iterations: 253FINISHED! Solution found. No. iterations: 293. Runtime: 3.419543981552124 seconds.
+FINISHED! Solution found. No. iterations: 253. Runtime: 1.7897632122039795 seconds.
+FINISHED! Solution found. No. iterations: 253FINISHED! Solution found. No. iterations: 293. Runtime: 3.580857515335083 seconds.
+FINISHED! Solution found. No. iterations: 253. Runtime: 2.990269422531128 seconds.
+FINISHED! Solution found. No. iterations: 253FINISHED! Solution found. No. iterations: 293. Runtime: 3.288165807723999 seconds.
+FINISHED! Solution found. No. iterations: 293FINISHED! Solution found. No. iterations: 253. Runtime: 4.2880024909973145 seconds.
+FINISHED! Solution found. No. iterations: 253FINISHED! Solution found. No. iterations: 293. Runtime: 4.150636434555054 seconds.
+FINISHED! Solution found. No. iterations: 253. Runtime: 2.091628074645996 seconds.
+FINISHED! Solution found. No. iterations: 253. Runtime: 3.10860013961792 seconds.
+FINISHED! Solution found. No. iterations: 253FINISHED! Solution found. No. iterations: 293. Runtime: 3.537024974822998 seconds.
+FINISHED! Solution found. No. iterations: 253FINISHED! Solution found. No. iterations: 293. Runtime: 3.676030397415161 seconds.
+FINISHED! Solution found. No. iterations: 253FINISHED! Solution found. No. iterations: 293. Runtime: 3.5170278549194336 seconds.
+FINISHED! Solution found. No. iterations: 293FINISHED! Solution found. No. iterations: 253. Runtime: 3.7786660194396973 seconds.
+FINISHED! Solution found. No. iterations: 293FINISHED! Solution found. No. iterations: 253. Runtime: 3.4175102710723877 seconds.
+FINISHED! Solution found. No. iterations: 253FINISHED! Solution found. No. iterations: 293. Runtime: 3.0154473781585693 seconds.
+FINISHED! Solution found. No. iterations: 293FINISHED! Solution found. No. iterations: 253. Runtime: 3.1683645248413086 seconds.
+FINISHED! Solution found. No. iterations: 293FINISHED! Solution found. No. iterations: 253. Runtime: 3.932004690170288 seconds.
+FINISHED! Solution found. No. iterations: 293FINISHED! Solution found. No. iterations: 253. Runtime: 4.489938497543335 seconds.
+FINISHED! Solution found. No. iterations: 293. Runtime: 1.5962638854980469 seconds.
+FINISHED! Solution found. No. iterations: 293FINISHED! Solution found. No. iterations: 253. Runtime: 3.1559579372406006 seconds.
+FINISHED! Solution found. No. iterations: 253FINISHED! Solution found. No. iterations: 293. Runtime: 3.4956135749816895 seconds.
+FINISHED! Solution found. No. iterations: 293. Runtime: 3.336228370666504 seconds.
+FINISHED! Solution found. No. iterations: 253. Runtime: 3.217832565307617 seconds.
+FINISHED! Solution found. No. iterations: 253FINISHED! Solution found. No. iterations: 293. Runtime: 3.6195435523986816 seconds.
+FINISHED! Solution found. No. iterations: 892. Runtime: 3.209717035293579 seconds.
+FINISHED! Solution found. No. iterations: 293. Runtime: 2.0830342769622803 seconds.
+FINISHED! Solution found. No. iterations: 293FINISHED! Solution found. No. iterations: 253. Runtime: 3.1926157474517822 seconds.
+FINISHED! Solution found. No. iterations: 293FINISHED! Solution found. No. iterations: 253. Runtime: 3.591322422027588 seconds.
+FINISHED! Solution found. No. iterations: 293. Runtime: 1.8822832107543945 seconds.
+FINISHED! Solution found. No. iterations: 293. Runtime: 3.567502975463867 seconds.
+FINISHED! Solution found. No. iterations: 293FINISHED! Solution found. No. iterations: 253. Runtime: 3.0928611755371094 seconds.
+FINISHED! Solution found. No. iterations: 892. Runtime: 3.4812042713165283 seconds.
+FINISHED! Solution found. No. iterations: 253FINISHED! Solution found. No. iterations: 293. Runtime: 2.4592373371124268 seconds.
+FINISHED! Solution found. No. iterations: 253FINISHED! Solution found. No. iterations: 293. Runtime: 3.419067621231079 seconds.
+FINISHED! Solution found. No. iterations: 253. Runtime: 1.82649564743042 seconds.
+FINISHED! Solution found. No. iterations: 293FINISHED! Solution found. No. iterations: 253. Runtime: 3.6644794940948486 seconds.
+FINISHED! Solution found. No. iterations: 253FINISHED! Solution found. No. iterations: 293. Runtime: 3.283862829208374 seconds.
+FINISHED! Solution found. No. iterations: 293FINISHED! Solution found. No. iterations: 253. Runtime: 3.4868829250335693 seconds.
+FINISHED! Solution found. No. iterations: 253FINISHED! Solution found. No. iterations: 293. Runtime: 3.343447208404541 seconds.
+FINISHED! Solution found. No. iterations: 293FINISHED! Solution found. No. iterations: 253. Runtime: 2.9482483863830566 seconds.
+FINISHED! Solution found. No. iterations: 253. Runtime: 3.5023114681243896 seconds.
+FINISHED! Solution found. No. iterations: 293. Runtime: 3.2127883434295654 seconds.
+FINISHED! Solution found. No. iterations: 253FINISHED! Solution found. No. iterations: 293. Runtime: 2.734121799468994 seconds.
+FINISHED! Solution found. No. iterations: 253FINISHED! Solution found. No. iterations: 293. Runtime: 3.29963755607605 seconds.
+FINISHED! Solution found. No. iterations: 253FINISHED! Solution found. No. iterations: 293. Runtime: 3.8073010444641113 seconds.
+FINISHED! Solution found. No. iterations: 293. Runtime: 1.9284999370574951 seconds.
+FINISHED! Solution found. No. iterations: 293. Runtime: 2.1232588291168213 seconds.
+FINISHED! Solution found. No. iterations: 253FINISHED! Solution found. No. iterations: 293. Runtime: 3.4454851150512695 seconds.
+FINISHED! Solution found. No. iterations: 293. Runtime: 2.3562471866607666 seconds.
+FINISHED! Solution found. No. iterations: 293FINISHED! Solution found. No. iterations: 253. Runtime: 2.845980167388916 seconds.
+FINISHED! Solution found. No. iterations: 253FINISHED! Solution found. No. iterations: 293. Runtime: 3.1198997497558594 seconds.
+FINISHED! Solution found. No. iterations: 293FINISHED! Solution found. No. iterations: 253. Runtime: 2.9131736755371094 seconds.
+FINISHED! Solution found. No. iterations: 253. Runtime: 3.2598085403442383 seconds.
+FINISHED! Solution found. No. iterations: 293FINISHED! Solution found. No. iterations: 253. Runtime: 3.118551731109619 seconds.
+FINISHED! Solution found. No. iterations: 253FINISHED! Solution found. No. iterations: 293. Runtime: 3.463583469390869 seconds.
+FINISHED! Solution found. No. iterations: 253. Runtime: 3.1958839893341064 seconds.
+FINISHED! Solution found. No. iterations: 892. Runtime: 3.2159388065338135 seconds.
+FINISHED! Solution found. No. iterations: 293FINISHED! Solution found. No. iterations: 253. Runtime: 3.3664050102233887 seconds.
+FINISHED! Solution found. No. iterations: 253FINISHED! Solution found. No. iterations: 293. Runtime: 3.372279167175293 seconds.
+FINISHED! Solution found. No. iterations: 253. Runtime: 3.1897799968719482 seconds.
+FINISHED! Solution found. No. iterations: 253FINISHED! Solution found. No. iterations: 293. Runtime: 2.974799394607544 seconds.
+FINISHED! Solution found. No. iterations: 892. Runtime: 3.688992977142334 seconds.
+FINISHED! Solution found. No. iterations: 293. Runtime: 3.3928682804107666 seconds.
+FINISHED! Solution found. No. iterations: 253FINISHED! Solution found. No. iterations: 293. Runtime: 3.329681158065796 seconds.
+FINISHED! Solution found. No. iterations: 293FINISHED! Solution found. No. iterations: 253. Runtime: 2.766418218612671 seconds.
+FINISHED! Solution found. No. iterations: 293FINISHED! Solution found. No. iterations: 253. Runtime: 3.783862829208374 seconds.
+FINISHED! Solution found. No. iterations: 253. Runtime: 3.717024087905884 seconds.
+FINISHED! Solution found. No. iterations: 253. Runtime: 3.362313985824585 seconds.
+FINISHED! Solution found. No. iterations: 293. Runtime: 3.3197991847991943 seconds.
+FINISHED! Solution found. No. iterations: 293FINISHED! Solution found. No. iterations: 253. Runtime: 3.285303831100464 seconds.
+FINISHED! Solution found. No. iterations: 253FINISHED! Solution found. No. iterations: 293. Runtime: 4.332953691482544 seconds.
+FINISHED! Solution found. No. iterations: 293. Runtime: 1.8290200233459473 seconds.
+FINISHED! Solution found. No. iterations: 253FINISHED! Solution found. No. iterations: 293. Runtime: 3.7174415588378906 seconds.
+FINISHED! Solution found. No. iterations: 293FINISHED! Solution found. No. iterations: 253. Runtime: 3.07418155670166 seconds.
+FINISHED! Solution found. No. iterations: 253FINISHED! Solution found. No. iterations: 293. Runtime: 3.9501709938049316 seconds.
+FINISHED! Solution found. No. iterations: 253FINISHED! Solution found. No. iterations: 293. Runtime: 3.3562779426574707 seconds.
+FINISHED! Solution found. No. iterations: 293. Runtime: 2.9431629180908203 seconds.
+FINISHED! Solution found. No. iterations: 253. Runtime: 3.1438870429992676 seconds.
+FINISHED! Solution found. No. iterations: 253. Runtime: 3.3296310901641846 seconds.
+FINISHED! Solution found. No. iterations: 253FINISHED! Solution found. No. iterations: 293. Runtime: 3.3298351764678955 seconds.
+FINISHED! Solution found. No. iterations: 253FINISHED! Solution found. No. iterations: 293. Runtime: 3.8719472885131836 seconds.
+FINISHED! Solution found. No. iterations: 892. Runtime: 2.95088529586792 seconds.
+FINISHED! Solution found. No. iterations: 253FINISHED! Solution found. No. iterations: 293. Runtime: 3.8086113929748535 seconds.
+FINISHED! Solution found. No. iterations: 253FINISHED! Solution found. No. iterations: 293. Runtime: 4.661943435668945 seconds.
+FINISHED! Solution found. No. iterations: 253. Runtime: 3.6684954166412354 seconds.
+FINISHED! Solution found. No. iterations: 253FINISHED! Solution found. No. iterations: 293. Runtime: 4.8955066204071045 seconds.
+FINISHED! Solution found. No. iterations: 253FINISHED! Solution found. No. iterations: 293. Runtime: 3.11403751373291 seconds.
+FINISHED! Solution found. No. iterations: 253FINISHED! Solution found. No. iterations: 293. Runtime: 3.9992904663085938 seconds.
+FINISHED! Solution found. No. iterations: 293FINISHED! Solution found. No. iterations: 253. Runtime: 3.7789995670318604 seconds.
+FINISHED! Solution found. No. iterations: 253FINISHED! Solution found. No. iterations: 293. Runtime: 4.721480846405029 seconds.
+FINISHED! Solution found. No. iterations: 293FINISHED! Solution found. No. iterations: 253. Runtime: 3.990161895751953 seconds.
+FINISHED! Solution found. No. iterations: 293FINISHED! Solution found. No. iterations: 253. Runtime: 3.4546959400177 seconds.
+FINISHED! Solution found. No. iterations: 293FINISHED! Solution found. No. iterations: 253. Runtime: 4.288028001785278 seconds.
+FINISHED! Solution found. No. iterations: 293FINISHED! Solution found. No. iterations: 253. Runtime: 3.1839253902435303 seconds.
+FINISHED! Solution found. No. iterations: 253FINISHED! Solution found. No. iterations: 293. Runtime: 4.712809324264526 seconds.
+FINISHED! Solution found. No. iterations: 253FINISHED! Solution found. No. iterations: 293. Runtime: 3.477780818939209 seconds.
+FINISHED! Solution found. No. iterations: 253. Runtime: 2.6372742652893066 seconds.
+FINISHED! Solution found. No. iterations: 253FINISHED! Solution found. No. iterations: 293. Runtime: 3.437511444091797 seconds.
+FINISHED! Solution found. No. iterations: 293. Runtime: 1.9595239162445068 seconds.
+FINISHED! Solution found. No. iterations: 253. Runtime: 3.1819190979003906 seconds.
+FINISHED! Solution found. No. iterations: 253. Runtime: 2.867922306060791 seconds.
+FINISHED! Solution found. No. iterations: 293FINISHED! Solution found. No. iterations: 253. Runtime: 4.343658685684204 seconds.
+FINISHED! Solution found. No. iterations: 253. Runtime: 4.122227907180786 seconds.
+FINISHED! Solution found. No. iterations: 293FINISHED! Solution found. No. iterations: 253. Runtime: 3.6226439476013184 seconds.
+FINISHED! Solution found. No. iterations: 253FINISHED! Solution found. No. iterations: 293. Runtime: 10.247066736221313 seconds.
+FINISHED! Solution found. No. iterations: 253FINISHED! Solution found. No. iterations: 293. Runtime: 2.9455389976501465 seconds.
+FINISHED! Solution found. No. iterations: 253FINISHED! Solution found. No. iterations: 293. Runtime: 3.017667531967163 seconds.
+FINISHED! Solution found. No. iterations: 293FINISHED! Solution found. No. iterations: 253. Runtime: 2.9581563472747803 seconds.
+FINISHED! Solution found. No. iterations: 253FINISHED! Solution found. No. iterations: 293. Runtime: 2.760749340057373 seconds.
+FINISHED! Solution found. No. iterations: 293FINISHED! Solution found. No. iterations: 253. Runtime: 2.7561991214752197 seconds.
+FINISHED! Solution found. No. iterations: 253FINISHED! Solution found. No. iterations: 293. Runtime: 2.9588630199432373 seconds.
+FINISHED! Solution found. No. iterations: 293FINISHED! Solution found. No. iterations: 253. Runtime: 3.5478367805480957 seconds.
+FINISHED! Solution found. No. iterations: 253FINISHED! Solution found. No. iterations: 293. Runtime: 3.1592211723327637 seconds.
+FINISHED! Solution found. No. iterations: 253FINISHED! Solution found. No. iterations: 293. Runtime: 3.590937852859497 seconds.
+FINISHED! Solution found. No. iterations: 892. Runtime: 3.3443644046783447 seconds.
+FINISHED! Solution found. No. iterations: 293FINISHED! Solution found. No. iterations: 253. Runtime: 3.9150643348693848 seconds.
+FINISHED! Solution found. No. iterations: 253FINISHED! Solution found. No. iterations: 293. Runtime: 4.034834623336792 seconds.
+FINISHED! Solution found. No. iterations: 293FINISHED! Solution found. No. iterations: 253. Runtime: 3.143676996231079 seconds.
+FINISHED! Solution found. No. iterations: 253. Runtime: 1.9291024208068848 seconds.
+FINISHED! Solution found. No. iterations: 293FINISHED! Solution found. No. iterations: 253. Runtime: 3.540052652359009 seconds.
+FINISHED! Solution found. No. iterations: 293FINISHED! Solution found. No. iterations: 253. Runtime: 4.739042282104492 seconds.
+FINISHED! Solution found. No. iterations: 293FINISHED! Solution found. No. iterations: 253. Runtime: 3.3988747596740723 seconds.
+FINISHED! Solution found. No. iterations: 253FINISHED! Solution found. No. iterations: 293. Runtime: 3.2593557834625244 seconds.
+FINISHED! Solution found. No. iterations: 253. Runtime: 3.1044490337371826 seconds.
+FINISHED! Solution found. No. iterations: 293FINISHED! Solution found. No. iterations: 253. Runtime: 3.228445529937744 seconds.
+FINISHED! Solution found. No. iterations: 253FINISHED! Solution found. No. iterations: 293. Runtime: 3.548191547393799 seconds.
+FINISHED! Solution found. No. iterations: 293. Runtime: 3.1783626079559326 seconds.
+FINISHED! Solution found. No. iterations: 293. Runtime: 2.8906431198120117 seconds.
+FINISHED! Solution found. No. iterations: 293. Runtime: 1.840956687927246 seconds.
+FINISHED! Solution found. No. iterations: 253. Runtime: 2.082258462905884 seconds.
+FINISHED! Solution found. No. iterations: 253FINISHED! Solution found. No. iterations: 293. Runtime: 3.077632188796997 seconds.
+FINISHED! Solution found. No. iterations: 293FINISHED! Solution found. No. iterations: 253. Runtime: 4.165196657180786 seconds.
+FINISHED! Solution found. No. iterations: 293FINISHED! Solution found. No. iterations: 253. Runtime: 4.199049711227417 seconds.
+FINISHED! Solution found. No. iterations: 253FINISHED! Solution found. No. iterations: 293. Runtime: 4.3709235191345215 seconds.
+FINISHED! Solution found. No. iterations: 253FINISHED! Solution found. No. iterations: 293. Runtime: 3.901634931564331 seconds.
+FINISHED! Solution found. No. iterations: 293FINISHED! Solution found. No. iterations: 253. Runtime: 2.9368703365325928 seconds.
+FINISHED! Solution found. No. iterations: 293FINISHED! Solution found. No. iterations: 253. Runtime: 2.7890994548797607 seconds.
+FINISHED! Solution found. No. iterations: 253FINISHED! Solution found. No. iterations: 293. Runtime: 3.4466769695281982 seconds.
+FINISHED! Solution found. No. iterations: 253FINISHED! Solution found. No. iterations: 293. Runtime: 3.479027271270752 seconds.
+FINISHED! Solution found. No. iterations: 293FINISHED! Solution found. No. iterations: 253. Runtime: 10.690971612930298 seconds.
+FINISHED! Solution found. No. iterations: 293. Runtime: 2.406536102294922 seconds.
+FINISHED! Solution found. No. iterations: 253FINISHED! Solution found. No. iterations: 293. Runtime: 3.33298659324646 seconds.
+FINISHED! Solution found. No. iterations: 253FINISHED! Solution found. No. iterations: 293. Runtime: 3.203171491622925 seconds.
+FINISHED! Solution found. No. iterations: 253FINISHED! Solution found. No. iterations: 293. Runtime: 2.991253614425659 seconds.
+FINISHED! Solution found. No. iterations: 253FINISHED! Solution found. No. iterations: 293. Runtime: 2.965886116027832 seconds.
+FINISHED! Solution found. No. iterations: 253FINISHED! Solution found. No. iterations: 293. Runtime: 3.1250314712524414 seconds.
+FINISHED! Solution found. No. iterations: 253. Runtime: 2.0788373947143555 seconds.
+FINISHED! Solution found. No. iterations: 253FINISHED! Solution found. No. iterations: 293. Runtime: 3.0569114685058594 seconds.
+FINISHED! Solution found. No. iterations: 293. Runtime: 2.0323338508605957 seconds.
+FINISHED! Solution found. No. iterations: 253FINISHED! Solution found. No. iterations: 293. Runtime: 2.7453439235687256 seconds.
+FINISHED! Solution found. No. iterations: 293FINISHED! Solution found. No. iterations: 253. Runtime: 4.974468469619751 seconds.
+FINISHED! Solution found. No. iterations: 253FINISHED! Solution found. No. iterations: 293. Runtime: 2.9587795734405518 seconds.
+FINISHED! Solution found. No. iterations: 253FINISHED! Solution found. No. iterations: 293. Runtime: 3.3123438358306885 seconds.
+FINISHED! Solution found. No. iterations: 253FINISHED! Solution found. No. iterations: 293. Runtime: 3.36449933052063 seconds.
+FINISHED! Solution found. No. iterations: 253. Runtime: 2.967294216156006 seconds.
+FINISHED! Solution found. No. iterations: 293FINISHED! Solution found. No. iterations: 253. Runtime: 3.3036458492279053 seconds.
+FINISHED! Solution found. No. iterations: 253FINISHED! Solution found. No. iterations: 293. Runtime: 3.7904553413391113 seconds.
+FINISHED! Solution found. No. iterations: 293FINISHED! Solution found. No. iterations: 253. Runtime: 3.7619240283966064 seconds.
+FINISHED! Solution found. No. iterations: 293FINISHED! Solution found. No. iterations: 253. Runtime: 3.0172066688537598 seconds.
+FINISHED! Solution found. No. iterations: 253. Runtime: 3.4860470294952393 seconds.
+FINISHED! Solution found. No. iterations: 253FINISHED! Solution found. No. iterations: 293. Runtime: 3.3573315143585205 seconds.
+FINISHED! Solution found. No. iterations: 293FINISHED! Solution found. No. iterations: 253. Runtime: 3.585352659225464 seconds.
+FINISHED! Solution found. No. iterations: 253. Runtime: 2.775946617126465 seconds.
+FINISHED! Solution found. No. iterations: 293. Runtime: 3.8302013874053955 seconds.
+FINISHED! Solution found. No. iterations: 293. Runtime: 3.5154619216918945 seconds.
+FINISHED! Solution found. No. iterations: 253FINISHED! Solution found. No. iterations: 293. Runtime: 4.280507326126099 seconds.
+FINISHED! Solution found. No. iterations: 293FINISHED! Solution found. No. iterations: 253. Runtime: 3.0013020038604736 seconds.
+FINISHED! Solution found. No. iterations: 293FINISHED! Solution found. No. iterations: 253. Runtime: 3.4787559509277344 seconds.
+FINISHED! Solution found. No. iterations: 293. Runtime: 3.722864866256714 seconds.
+FINISHED! Solution found. No. iterations: 253. Runtime: 3.763009548187256 seconds.
+FINISHED! Solution found. No. iterations: 293. Runtime: 4.013171195983887 seconds.
+FINISHED! Solution found. No. iterations: 253FINISHED! Solution found. No. iterations: 293. Runtime: 3.708678722381592 seconds.
+FINISHED! Solution found. No. iterations: 293. Runtime: 2.7141225337982178 seconds.
+FINISHED! Solution found. No. iterations: 293FINISHED! Solution found. No. iterations: 253. Runtime: 3.2433741092681885 seconds.
+FINISHED! Solution found. No. iterations: 293. Runtime: 4.6070027351379395 seconds.
+FINISHED! Solution found. No. iterations: 293FINISHED! Solution found. No. iterations: 253. Runtime: 3.0103542804718018 seconds.
+FINISHED! Solution found. No. iterations: 253. Runtime: 3.028940200805664 seconds.
+FINISHED! Solution found. No. iterations: 293FINISHED! Solution found. No. iterations: 253. Runtime: 3.3076839447021484 seconds.
+FINISHED! Solution found. No. iterations: 253. Runtime: 2.1719982624053955 seconds.
+FINISHED! Solution found. No. iterations: 892. Runtime: 3.0634427070617676 seconds.
+FINISHED! Solution found. No. iterations: 253FINISHED! Solution found. No. iterations: 293. Runtime: 3.6272878646850586 seconds.
+FINISHED! Solution found. No. iterations: 253FINISHED! Solution found. No. iterations: 293. Runtime: 3.4345340728759766 seconds.
+FINISHED! Solution found. No. iterations: 253FINISHED! Solution found. No. iterations: 293. Runtime: 3.258850336074829 seconds.
+FINISHED! Solution found. No. iterations: 293FINISHED! Solution found. No. iterations: 253. Runtime: 3.3077991008758545 seconds.
+FINISHED! Solution found. No. iterations: 892. Runtime: 2.928312063217163 seconds.
+FINISHED! Solution found. No. iterations: 253. Runtime: 2.2621846199035645 seconds.
+FINISHED! Solution found. No. iterations: 293. Runtime: 1.765547513961792 seconds.
+FINISHED! Solution found. No. iterations: 253. Runtime: 2.604304313659668 seconds.
+FINISHED! Solution found. No. iterations: 253FINISHED! Solution found. No. iterations: 293. Runtime: 4.172031879425049 seconds.
+FINISHED! Solution found. No. iterations: 293. Runtime: 3.5410242080688477 seconds.
+FINISHED! Solution found. No. iterations: 293FINISHED! Solution found. No. iterations: 253. Runtime: 2.989387035369873 seconds.
+FINISHED! Solution found. No. iterations: 293FINISHED! Solution found. No. iterations: 253. Runtime: 2.9712023735046387 seconds.
+FINISHED! Solution found. No. iterations: 253FINISHED! Solution found. No. iterations: 293. Runtime: 4.5039589405059814 seconds.
+FINISHED! Solution found. No. iterations: 293FINISHED! Solution found. No. iterations: 253. Runtime: 3.246981620788574 seconds.
+FINISHED! Solution found. No. iterations: 253FINISHED! Solution found. No. iterations: 293. Runtime: 3.0272228717803955 seconds.
+FINISHED! Solution found. No. iterations: 253FINISHED! Solution found. No. iterations: 293. Runtime: 3.2500216960906982 seconds.
+FINISHED! Solution found. No. iterations: 253FINISHED! Solution found. No. iterations: 293. Runtime: 3.343790292739868 seconds.
+FINISHED! Solution found. No. iterations: 253FINISHED! Solution found. No. iterations: 293. Runtime: 2.8750176429748535 seconds.
+FINISHED! Solution found. No. iterations: 253. Runtime: 2.8125178813934326 seconds.
+FINISHED! Solution found. No. iterations: 253. Runtime: 3.125021457672119 seconds.
+FINISHED! Solution found. No. iterations: 253FINISHED! Solution found. No. iterations: 293. Runtime: 3.0625269412994385 seconds.
+FINISHED! Solution found. No. iterations: 253. Runtime: 2.8125197887420654 seconds.
+FINISHED! Solution found. No. iterations: 253FINISHED! Solution found. No. iterations: 293. Runtime: 3.046877384185791 seconds.
+FINISHED! Solution found. No. iterations: 253. Runtime: 3.4531326293945312 seconds.
+FINISHED! Solution found. No. iterations: 293FINISHED! Solution found. No. iterations: 253. Runtime: 3.015646457672119 seconds.
+FINISHED! Solution found. No. iterations: 293FINISHED! Solution found. No. iterations: 253. Runtime: 3.0000193119049072 seconds.
+FINISHED! Solution found. No. iterations: 293FINISHED! Solution found. No. iterations: 253. Runtime: 2.921873092651367 seconds.
+FINISHED! Solution found. No. iterations: 293FINISHED! Solution found. No. iterations: 253. Runtime: 2.8906421661376953 seconds.
+FINISHED! Solution found. No. iterations: 253. Runtime: 3.390650510787964 seconds.
+FINISHED! Solution found. No. iterations: 892. Runtime: 3.390648126602173 seconds.
+FINISHED! Solution found. No. iterations: 293FINISHED! Solution found. No. iterations: 253. Runtime: 3.2187514305114746 seconds.
+FINISHED! Solution found. No. iterations: 253FINISHED! Solution found. No. iterations: 293. Runtime: 3.0469000339508057 seconds.
+FINISHED! Solution found. No. iterations: 253FINISHED! Solution found. No. iterations: 293. Runtime: 3.0287585258483887 seconds.
+FINISHED! Solution found. No. iterations: 253FINISHED! Solution found. No. iterations: 293. Runtime: 3.9960150718688965 seconds.
+FINISHED! Solution found. No. iterations: 293. Runtime: 1.8437731266021729 seconds.
+FINISHED! Solution found. No. iterations: 253FINISHED! Solution found. No. iterations: 293. Runtime: 3.0937864780426025 seconds.
+FINISHED! Solution found. No. iterations: 293FINISHED! Solution found. No. iterations: 253FINISHED! Solution found. No. iterations: 253FINISHED! Solution found. No. iterations: 293FINISHED! Solution found. No. iterations: 293FINISHED! Solution found. No. iterations: 253. Runtime: 3.110517740249634 seconds.
+FINISHED! Solution found. No. iterations: 293. Runtime: 2.5367438793182373 seconds.
+FINISHED! Solution found. No. iterations: 293FINISHED! Solution found. No. iterations: 253. Runtime: 3.5469183921813965 seconds.
+FINISHED! Solution found. No. iterations: 293FINISHED! Solution found. No. iterations: 253. Runtime: 3.4116389751434326 seconds.
+FINISHED! Solution found. No. iterations: 253FINISHED! Solution found. No. iterations: 293. Runtime: 3.0781619548797607 seconds.
+FINISHED! Solution found. No. iterations: 253FINISHED! Solution found. No. iterations: 293. Runtime: 3.0781779289245605 seconds.
+FINISHED! Solution found. No. iterations: 892. Runtime: 2.9219107627868652 seconds.
+FINISHED! Solution found. No. iterations: 253. Runtime: 3.2454309463500977 seconds.
+FINISHED! Solution found. No. iterations: 293FINISHED! Solution found. No. iterations: 253. Runtime: 2.9043068885803223 seconds.
+FINISHED! Solution found. No. iterations: 253. Runtime: 3.75356388092041 seconds.
+FINISHED! Solution found. No. iterations: 253FINISHED! Solution found. No. iterations: 293. Runtime: 3.0312819480895996 seconds.
+FINISHED! Solution found. No. iterations: 293FINISHED! Solution found. No. iterations: 253. Runtime: 3.199030876159668 seconds.
+FINISHED! Solution found. No. iterations: 293FINISHED! Solution found. No. iterations: 253. Runtime: 3.056790828704834 seconds.
+FINISHED! Solution found. No. iterations: 253FINISHED! Solution found. No. iterations: 293. Runtime: 2.930105686187744 seconds.
+FINISHED! Solution found. No. iterations: 253FINISHED! Solution found. No. iterations: 293. Runtime: 3.485506534576416 seconds.
+FINISHED! Solution found. No. iterations: 293FINISHED! Solution found. No. iterations: 253. Runtime: 3.0246403217315674 seconds.
+FINISHED! Solution found. No. iterations: 293FINISHED! Solution found. No. iterations: 253. Runtime: 3.0271127223968506 seconds.
+FINISHED! Solution found. No. iterations: 253FINISHED! Solution found. No. iterations: 293. Runtime: 3.7105815410614014 seconds.
+FINISHED! Solution found. No. iterations: 293FINISHED! Solution found. No. iterations: 253. Runtime: 5.389840364456177 seconds.
+FINISHED! Solution found. No. iterations: 253FINISHED! Solution found. No. iterations: 293. Runtime: 3.48795223236084 seconds.
+FINISHED! Solution found. No. iterations: 293FINISHED! Solution found. No. iterations: 253. Runtime: 3.8570663928985596 seconds.
+FINISHED! Solution found. No. iterations: 293FINISHED! Solution found. No. iterations: 253. Runtime: 2.898293972015381 seconds.
+FINISHED! Solution found. No. iterations: 253. Runtime: 3.2192275524139404 seconds.
+FINISHED! Solution found. No. iterations: 253. Runtime: 3.3364875316619873 seconds.
+FINISHED! Solution found. No. iterations: 253FINISHED! Solution found. No. iterations: 293. Runtime: 2.9399986267089844 seconds.
+FINISHED! Solution found. No. iterations: 892. Runtime: 3.2009713649749756 seconds.
+FINISHED! Solution found. No. iterations: 253. Runtime: 2.9948606491088867 seconds.
+FINISHED! Solution found. No. iterations: 293. Runtime: 2.1645896434783936 seconds.
+FINISHED! Solution found. No. iterations: 253. Runtime: 3.536283254623413 seconds.
+FINISHED! Solution found. No. iterations: 293FINISHED! Solution found. No. iterations: 253. Runtime: 3.5472629070281982 seconds.
+FINISHED! Solution found. No. iterations: 293. Runtime: 2.218144416809082 seconds.
+FINISHED! Solution found. No. iterations: 253FINISHED! Solution found. No. iterations: 293FINISHED! Solution found. No. iterations: 293FINISHED! Solution found. No. iterations: 253FINISHED! Solution found. No. iterations: 253FINISHED! Solution found. No. iterations: 293FINISHED! Solution found. No. iterations: 293FINISHED! Solution found. No. iterations: 253FINISHED! Solution found. No. iterations: 293FINISHED! Solution found. No. iterations: 253FINISHED! Solution found. No. iterations: 253FINISHED! Solution found. No. iterations: 293FINISHED! Solution found. No. iterations: 253FINISHED! Solution found. No. iterations: 293FINISHED! Solution found. No. iterations: 253FINISHED! Solution found. No. iterations: 293FINISHED! Solution found. No. iterations: 253FINISHED! Solution found. No. iterations: 293. Runtime: 125.02928638458252 seconds.
+FINISHED! Solution found. No. iterations: 1936. Runtime: 9.959115505218506 seconds.
+FINISHED! Solution found. No. iterations: 1936FINISHED! Solution found. No. iterations: 293FINISHED! Solution found. No. iterations: 253. Runtime: 2.9078168869018555 seconds.
+FINISHED! Solution found. No. iterations: 1936. Runtime: 7.267383337020874 seconds.
+FINISHED! Solution found. No. iterations: 1936. Runtime: 8.834359169006348 seconds.
+FINISHED! Solution found. No. iterations: 4544. Runtime: 10.140736818313599 seconds.
+FINISHED! Solution found. No. iterations: 1936. Runtime: 7.622246980667114 seconds.
+FINISHED! Solution found. No. iterations: 37. Runtime: 2.3255419731140137 seconds.
+FINISHED! Solution found. No. iterations: 37FINISHED! Solution found. No. iterations: 69. Runtime: 1.6130034923553467 seconds.
+FINISHED! Solution found. No. iterations: 37FINISHED! Solution found. No. iterations: 69. Runtime: 1.9805142879486084 seconds.
+FINISHED! Solution found. No. iterations: 69FINISHED! Solution found. No. iterations: 37. Runtime: 2.7398769855499268 seconds.
+FINISHED! Solution found. No. iterations: 37FINISHED! Solution found. No. iterations: 69FINISHED! Solution found. No. iterations: 37FINISHED! Solution found. No. iterations: 69FINISHED! Solution found. No. iterations: 37FINISHED! Solution found. No. iterations: 69FINISHED! Solution found. No. iterations: 69FINISHED! Solution found. No. iterations: 37FINISHED! Solution found. No. iterations: 178FINISHED! Solution found. No. iterations: 209. Runtime: 3.2691431045532227 seconds.
+FINISHED! Solution found. No. iterations: 209FINISHED! Solution found. No. iterations: 73. Runtime: 3.591919183731079 seconds.
+FINISHED! Solution found. No. iterations: 73. Runtime: 3.027355909347534 seconds.
+FINISHED! Solution found. No. iterations: 73FINISHED! Solution found. No. iterations: 209. Runtime: 3.070281982421875 seconds.
+FINISHED! Solution found. No. iterations: 209FINISHED! Solution found. No. iterations: 73. Runtime: 3.0430169105529785 seconds.
+FINISHED! Solution found. No. iterations: 37FINISHED! Solution found. No. iterations: 69. Runtime: 2.3212826251983643 seconds.
+FINISHED! Solution found. No. iterations: 37. Runtime: 2.670563220977783 seconds.
+FINISHED! Solution found. No. iterations: 37FINISHED! Solution found. No. iterations: 69. Runtime: 2.390650987625122 seconds.
+FINISHED! Solution found. No. iterations: 37FINISHED! Solution found. No. iterations: 69. Runtime: 2.346471071243286 seconds.
+FINISHED! Solution found. No. iterations: 37. Runtime: 1.9531450271606445 seconds.
+FINISHED! Solution found. No. iterations: 102. Runtime: 2.1444618701934814 seconds.
+FINISHED! Solution found. No. iterations: 102. Runtime: 3.2812817096710205 seconds.
+FINISHED! Solution found. No. iterations: 59. Runtime: 1.903599500656128 seconds.
+FINISHED! Solution found. No. iterations: 59. Runtime: 1.4375271797180176 seconds.
+FINISHED! Solution found. No. iterations: 59. Runtime: 2.4332659244537354 seconds.
+FINISHED! Solution found. No. iterations: 59. Runtime: 3.031493663787842 seconds.
+FINISHED! Solution found. No. iterations: 37. Runtime: 1.7370891571044922 seconds.
+FINISHED! Solution found. No. iterations: 37FINISHED! Solution found. No. iterations: 69. Runtime: 2.412668228149414 seconds.
+FINISHED! Solution found. No. iterations: 37. Runtime: 2.774278402328491 seconds.
+FINISHED! Solution found. No. iterations: 37FINISHED! Solution found. No. iterations: 69. Runtime: 2.390658140182495 seconds.
+FINISHED! Solution found. No. iterations: 69FINISHED! Solution found. No. iterations: 37. Runtime: 2.9326577186584473 seconds.
+FINISHED! Solution found. No. iterations: 37. Runtime: 2.2678399085998535 seconds.
+FINISHED! Solution found. No. iterations: 37. Runtime: 1.6710269451141357 seconds.
+FINISHED! Solution found. No. iterations: 37FINISHED! Solution found. No. iterations: 69. Runtime: 2.3061439990997314 seconds.
+FINISHED! Solution found. No. iterations: 69FINISHED! Solution found. No. iterations: 37. Runtime: 2.37502121925354 seconds.
+FINISHED! Solution found. No. iterations: 37. Runtime: 2.0963876247406006 seconds.
+FINISHED! Solution found. No. iterations: 37FINISHED! Solution found. No. iterations: 69. Runtime: 2.579017162322998 seconds.
+FINISHED! Solution found. No. iterations: 37FINISHED! Solution found. No. iterations: 69. Runtime: 1.8192825317382812 seconds.
+FINISHED! Solution found. No. iterations: 178. Runtime: 2.860208034515381 seconds.
+FINISHED! Solution found. No. iterations: 178. Runtime: 3.343777894973755 seconds.
+FINISHED! Solution found. No. iterations: 178. Runtime: 3.2061378955841064 seconds.
+FINISHED! Solution found. No. iterations: 541. Runtime: 3.579230785369873 seconds.
+FINISHED! Solution found. No. iterations: 541. Runtime: 3.561161756515503 seconds.
+FINISHED! Solution found. No. iterations: 206. Runtime: 2.9460275173187256 seconds.
+FINISHED! Solution found. No. iterations: 56FINISHED! Solution found. No. iterations: 206. Runtime: 3.189879894256592 seconds.
+FINISHED! Solution found. No. iterations: 56. Runtime: 1.6204721927642822 seconds.
+FINISHED! Solution found. No. iterations: 201. Runtime: 2.191556692123413 seconds.
+FINISHED! Solution found. No. iterations: 201. Runtime: 3.3092076778411865 seconds.
+FINISHED! Solution found. No. iterations: 206. Runtime: 3.361886739730835 seconds.
+FINISHED! Solution found. No. iterations: 206. Runtime: 1.6240065097808838 seconds.
+FINISHED! Solution found. No. iterations: 342FINISHED! Solution found. No. iterations: 370. Runtime: 4.030279636383057 seconds.
+FINISHED! Solution found. No. iterations: 342FINISHED! Solution found. No. iterations: 370. Runtime: 3.4034488201141357 seconds.
+FINISHED! Solution found. No. iterations: 342FINISHED! Solution found. No. iterations: 370. Runtime: 4.2132134437561035 seconds.
+FINISHED! Solution found. No. iterations: 680. Runtime: 5.811720848083496 seconds.
+FINISHED! Solution found. No. iterations: 680FINISHED! Solution found. No. iterations: 1329. Runtime: 6.762767314910889 seconds.
+FINISHED! Solution found. No. iterations: 287. Runtime: 3.385185480117798 seconds.
+FINISHED! Solution found. No. iterations: 287. Runtime: 4.424631118774414 seconds.
+FINISHED! Solution found. No. iterations: 574. Runtime: 6.731025457382202 seconds.
+FINISHED! Solution found. No. iterations: 1026FINISHED! Solution found. No. iterations: 126. Runtime: 7.567704677581787 seconds.
+. Runtime: 4.745190382003784 seconds.
+FINISHED! Solution found. No. iterations: 1026. Runtime: 4.376891136169434 seconds.
+FINISHED! Solution found. No. iterations: 574. Runtime: 6.41621470451355 seconds.
+FINISHED! Solution found. No. iterations: 56FINISHED! Solution found. No. iterations: 206. Runtime: 3.507290840148926 seconds.
+FINISHED! Solution found. No. iterations: 56. Runtime: 1.6804368495941162 seconds.
+FINISHED! Solution found. No. iterations: 56FINISHED! Solution found. No. iterations: 206. Runtime: 3.1562790870666504 seconds.
+FINISHED! Solution found. No. iterations: 1368. Runtime: 4.049324035644531 seconds.
+FINISHED! Solution found. No. iterations: 1368. Runtime: 3.468576192855835 seconds.
+FINISHED! Solution found. No. iterations: 206FINISHED! Solution found. No. iterations: 56. Runtime: 2.810448408126831 seconds.
+FINISHED! Solution found. No. iterations: 56. Runtime: 1.5937650203704834 seconds.
+FINISHED! Solution found. No. iterations: 56. Runtime: 4.170164346694946 seconds.
+FINISHED! Solution found. No. iterations: 206FINISHED! Solution found. No. iterations: 56FINISHED! Solution found. No. iterations: 206FINISHED! Solution found. No. iterations: 206FINISHED! Solution found. No. iterations: 56FINISHED! Solution found. No. iterations: 56. Runtime: 11.574617385864258 seconds.
+. Runtime: 14.273194551467896 seconds.
+FINISHED! Solution found. No. iterations: 206FINISHED! Solution found. No. iterations: 56. Runtime: 16.57881236076355 seconds.
+FINISHED! Solution found. No. iterations: 56FINISHED! Solution found. No. iterations: 206. Runtime: 16.66546630859375 seconds.
+. Runtime: 13.352575540542603 seconds.
+FINISHED! Solution found. No. iterations: 25. Runtime: 2.0595154762268066 seconds.
+FINISHED! Solution found. No. iterations: 25FINISHED! Solution found. No. iterations: 46. Runtime: 1.9113600254058838 seconds.
+FINISHED! Solution found. No. iterations: 25FINISHED! Solution found. No. iterations: 24. Runtime: 2.1890029907226562 seconds.
+FINISHED! Solution found. No. iterations: 24. Runtime: 2.441336154937744 seconds.
+FINISHED! Solution found. No. iterations: 102. Runtime: 2.54238224029541 seconds.
+FINISHED! Solution found. No. iterations: 102. Runtime: 3.05241060256958 seconds.
+FINISHED! Solution found. No. iterations: 102. Runtime: 3.5841281414031982 seconds.
+FINISHED! Solution found. No. iterations: 541. Runtime: 0.9832723140716553 seconds.
+FINISHED! Solution found. No. iterations: 253. Runtime: 0.9020652770996094 seconds.
+FINISHED! Solution found. No. iterations: 193. Runtime: 0.8051409721374512 seconds.
+FINISHED! Solution found. No. iterations: 625. Runtime: 1.1446924209594727 seconds.
+FINISHED! Solution found. No. iterations: 16. Runtime: 0.6331944465637207 seconds.
+FINISHED! Solution found. No. iterations: 80. Runtime: 0.8956313133239746 seconds.
+FINISHED! Solution found. No. iterations: 105. Runtime: 0.7940137386322021 seconds.
+FINISHED! Solution found. No. iterations: 387. Runtime: 0.8930089473724365 seconds.
+FINISHED! Solution found. No. iterations: 387. Runtime: 0.9720962047576904 seconds.
+FINISHED! Solution found. No. iterations: 178. Runtime: 0.7536258697509766 seconds.
+FINISHED! Solution found. No. iterations: 81. Runtime: 0.6068618297576904 seconds.
+FINISHED! Solution found. No. iterations: 380. Runtime: 0.8850047588348389 seconds.
+FINISHED! Solution found. No. iterations: 1964. Runtime: 2.2680160999298096 seconds.
+FINISHED! Solution found. No. iterations: 10. Runtime: 0.7305183410644531 seconds.
+FINISHED! Solution found. No. iterations: 155. Runtime: 0.9660024642944336 seconds.
+FINISHED! Solution found. No. iterations: 927. Runtime: 1.4670019149780273 seconds.
+FINISHED! Solution found. No. iterations: 32. Runtime: 0.6235747337341309 seconds.
+FINISHED! Solution found. No. iterations: 206. Runtime: 0.8075766563415527 seconds.
+FINISHED! Solution found. No. iterations: 206. Runtime: 0.771047830581665 seconds.
+FINISHED! Solution found. No. iterations: 56FINISHED! Solution found. No. iterations: 140. Runtime: 0.817997932434082 seconds.
+FINISHED! Solution found. No. iterations: 253. Runtime: 1.4999537467956543 seconds.
+FINISHED! Solution found. No. iterations: 296. Runtime: 1.5376250743865967 seconds.
+FINISHED! Solution found. No. iterations: 334. Runtime: 1.7657115459442139 seconds.
+FINISHED! Solution found. No. iterations: 1276. Runtime: 4.820893287658691 seconds.

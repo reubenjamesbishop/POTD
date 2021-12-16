@@ -1,46 +1,14 @@
-from multiprocessing.queues import Queue
 from pieces import *
 import copy
 import time
 import sys
-from multiprocessing import Process, Event, Queue
+from multiprocessing import Pool, Process, Event, Manager
 from Utilities import IslandFinder
+from datetime import date
 
 count = 0
 solution_found = False
-
-
-def classic_init_board():
-    """Initialise an empty board with no pieces."""
-    # TODO: write a function for the init board
-    return [
-        [0, 0, 0, 0, 0, 0, 1],
-        [0, 0, 0, 0, 0, 1, 1],
-        [0, 0, 0, 0, 0, 0, 0],
-        [0, 1, 0, 0, 0, 0, 0],
-        [0, 0, 0, 0, 0, 0, 0],
-        [0, 0, 0, 0, 0, 0, 0],
-        [0, 0, 0, 1, 1, 1, 1],
-    ]
-
-
-def cli():
-    """Function which allows for command line interface when inputting dates"""
-
-    while True:
-        month = int(input("Please enter month:"))
-        if month not in range(1, 13):
-            print('Invalid Month input')
-            continue
-        break
-
-    while True:
-        day = int(input("Please enter day:"))
-        if day not in range(1, 32):
-            print('Invalid day input')
-            continue
-        break
-    return month, day
+island_finder = None
 
 
 def oob_valid(piece, row, column):
@@ -100,48 +68,6 @@ def print_board(board):
     print('\n'.join(table))
 
 
-def check_surrounds(board, row, column):
-    """
-    Function to check the surrounding coordinates on a board.
-    Returns False if current thing is an invalid board.
-    """
-
-    current = board[row][column]
-
-    if current != 0:
-        return True
-
-    try:
-        up = board[row-1][column]
-        down = board[row+1][column]
-        left = board[row][column-1]
-        right = board[row][column+1]
-
-    except IndexError:
-        # print('CANT CHECK OUT OF BOUNDS!')
-        return True
-
-    # If there are no empty spaces around the current empty spot, invalid board (return false)
-    if(up != 0 and down != 0 and left != 0 and right != 0):
-        return False
-    else:
-        return True
-
-
-def check_board_state(board):
-    """
-    Function to check surrounds of every piece on board.
-    Returns False if board state is invalid.
-    """
-
-    for row in range(0, 7):
-        for column in range(0, 7):
-            is_valid = check_surrounds(board, row, column)
-            if not is_valid:
-                return False
-    return True
-
-
 def convolute(board, piece, row, column):
     """ Function to convolve an oriented piece in a specific coordinate return if valid."""
     temp_board = copy.deepcopy(board)
@@ -158,10 +84,10 @@ def convolute(board, piece, row, column):
                 else:
                     temp_board = board.copy()
                     print(1/0)
-    except IndexError as e:
+    except IndexError:
         # logging.info('Invalid placement of piece... (out of bounds)')
         return None
-    except ZeroDivisionError as e:
+    except ZeroDivisionError:
         # print('Tried to place piece on unavailable slot...')
         return None
     # print('Everything worked! Returning an updated board..............')
@@ -169,149 +95,126 @@ def convolute(board, piece, row, column):
 
 
 def get_next_layer(board, layer):
-
-    global count
-    solved = True
-
-    for row in board:
-        if(0 in row):
-            solved = False
-    if solved:
-        with open('log.txt', 'a') as f:
-            f.write(
-                f"FINISHED! Solution found for date {sys.argv[2]}/{sys.argv[1]}. No. iterations: {count}")
-        print(
-            f'FINISHED! Solution found for date {sys.argv[2]}/{sys.argv[1]}. No. iterations: {count}')
-        print('-----------------------------')
-
+    if is_solved(board):
         return None
-
     layer_key = layer[0][0][0]
-    if(layer_key == 'A'):
-        return pieces_dict['B']
-    if(layer_key == 'B'):
-        return pieces_dict['C']
-    if(layer_key == 'C'):
-        return pieces_dict['D']
-    if(layer_key == 'D'):
-        return pieces_dict['E']
-    if(layer_key == 'E'):
-        return pieces_dict['F']
-    if(layer_key == 'F'):
-        return pieces_dict['G']
-    if(layer_key == 'G'):
-        return pieces_dict['H']
     if(layer_key == 'H'):
         return pieces_dict['A']
+    else:
+        return pieces_dict[chr(ord(layer_key)+1)]
 
 
-def add_layer(board, layer, found_event=None, Q=None):
-    global count
-    global skipped
+def illegal_move(coord, layer, index):
+    if index in layer[1]:
+        if coord in layer[1][index]:
+            return True
 
-    IF = IslandFinder(board)
-    if IF.get_min_island_size() < 5:
+
+def board_invalid(board):
+    island_finder = IslandFinder(board)
+    if island_finder.get_min_island_size() < 5:
+        return True
+
+
+def can_convolute(board_cell, piece_cell):
+    if board_cell == 0 or not piece_cell:
+        return True
+    else:
         return False
+
+
+def is_solved(board):
+    for row in board:
+        if(0 in row):
+            return False
+    return True
+
+
+def add_layer(board, layer, quit=None, return_value=None):
+    global count
+
+    if is_solved(board):
+        # print_board(board)
+        with open('log.txt', 'a') as f:
+            f.write(
+                f"FINISHED! Solution found. No. iterations: {count}")
+        print('---------------------------------------------------\n')
+        print(
+            f'FINISHED! Solution found. No. iterations: {count}\n')
+        print('---------------------------------------------------\n')
+        if quit:
+            return_value[0] = board
+            quit.set()
+        return board
+
+    if board_invalid(board):
+        return None
 
     for col in range(0, 7):
         for row in range(0, 7):
             for orientation_index, oriented_piece in enumerate(layer[0]):
-                leave = False
-                if orientation_index in layer[1]:
-                    if tuple([col, row]) in layer[1][orientation_index]:
-                        leave = True
-                if leave:
-                    continue
+                # if illegal_move(tuple([col, row]), layer, orientation_index):
+                #     continue
                 new_board = None
-                if((board[row][col] == 0 or not oriented_piece[0][0]) and oob_valid(oriented_piece, row, col)):
+                if(can_convolute(board[row][col], oriented_piece[0][0]) and oob_valid(oriented_piece, row, col)):
                     new_board = convolute(
                         board, oriented_piece, row, col)
                 if new_board:
                     count += 1
                     if count % 500 == 0:
                         print(f'Current iteration: {count}')
-                        # print_board(new_board)
-                        # print('-----------------------------')
-
+                        # print_board(board)
                     next_layer = get_next_layer(new_board, layer[0])
-                    if next_layer:
-                        temp = add_layer(new_board, next_layer, found_event)
-                        if not temp:
-                            continue
+                    temp = add_layer(new_board, next_layer,
+                                     quit, return_value)
+                    if not temp:
+                        continue
                     else:
-                        print_board(new_board)
-                        if found_event:
-                            found_event.set()
-                        return new_board
-    return False
+                        return temp
 
 
 def single_solve_puzzle(board):
-    start_time = time.time()
-    add_layer(board, pieces_dict['A'])
-    print("--- %s seconds ---" % (time.time() - start_time))
-    # return None
+    return add_layer(board, pieces_dict['A'])
 
 
 def parallel_solve_puzzle(board):
-    found_event = Event()
-    # Q = Queue()
-    pA = Process(target=add_layer, args=(
-        board, pieces_dict['A'], found_event,))
-    pB = Process(target=add_layer, args=(
-        board, pieces_dict['B'], found_event,))
-    pC = Process(target=add_layer, args=(
-        board, pieces_dict['C'], found_event,))
-    pD = Process(target=add_layer, args=(
-        board, pieces_dict['D'], found_event,))
-    pE = Process(target=add_layer, args=(
-        board, pieces_dict['E'], found_event,))
-    pF = Process(target=add_layer, args=(
-        board, pieces_dict['F'], found_event,))
-    pG = Process(target=add_layer, args=(
-        board, pieces_dict['G'], found_event,))
-    pH = Process(target=add_layer, args=(
-        board, pieces_dict['H'], found_event,))
+    manager = Manager()
+    return_value = manager.dict()
+    quit = Event()
+    pool = []
+    char = 'A'
 
-    pool = [pA, pB, pC, pD, pE, pF, pG, pH]
+    for _ in range(8):
+        pool.append(Process(target=add_layer, args=(
+            board, pieces_dict[char], quit, return_value,)))
+        char = chr(ord(char)+1)
     [p.start() for p in pool]
 
     start_time = time.time()
-    found_event.wait()
-    print("--- %s seconds ---" % (time.time() - start_time))
+    quit.wait()
     with open('log.txt', 'a') as f:
         f.write(f". Runtime: {(time.time() - start_time)} seconds.\n")
 
     [p.terminate() for p in pool]
     [p.join() for p in pool]
-
-    # y = [x for x in Q]
-    # print(y)
-
-    # while(True):
-    #     # print('STARTED WHILE LOOP')
-
-    #     running = [p.is_alive() for p in processes]
-
-    #     for p in running:
-    #         # print(f'CHECKING IF {p} IS RUNNING...')
-    #         if not p:
-    #             idx = running.index(p)
-    #             # print(f'Process {idx} has terminated!')
-    #             processes.pop(idx)
-    #             [x.terminate() for x in processes]
-    #             # print('KILLED PROCESSES, RETUNING FROM PARALLEL SOLVE')
-    #             print("--- %s seconds ---" % (time.time() - startTimes[idx]))
-    #             return None
+    return return_value[0]
 
 
 def main():
     # print command line arguments
-    board = init_board([int(sys.argv[1]), int(sys.argv[2])])
-    parallel_solve_puzzle(board)
-    # single_solve_puzzle(board)
+    if len(sys.argv) > 1:
+        board = init_board([int(sys.argv[1]), int(sys.argv[2])])
+    else:
+        todays_date = date.today()
+        board = init_board([todays_date.month, todays_date.day])
+        # board = init_board([6, 20])
 
-    # print_board(solved_board)
+    start_time = time.time()
+    solved = parallel_solve_puzzle(board)
+    # solved = single_solve_puzzle(board)
+    print_board(solved)
+    print("\n------------ %s seconds ------------" %
+          (time.time() - start_time))
 
 
 if __name__ == "__main__":

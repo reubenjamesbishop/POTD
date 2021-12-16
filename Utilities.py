@@ -3,6 +3,7 @@ class IslandFinder:
     min_island_size = 49
     current_island_size = 0
     new_island = False
+    grid = None
 
     def __init__(self, grid):
         self.grid = grid
@@ -36,3 +37,6 @@ class IslandFinder:
                         self.min_island_size, self.current_island_size)
                     count += 1
         return self.min_island_size
+
+    def set_grid(self, board):
+        self.grid = board
